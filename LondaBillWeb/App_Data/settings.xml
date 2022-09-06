@@ -1,0 +1,5 @@
+<settings>
+<salon ID="4" />
+<!--<printer NAME="\\Secretar\EPSON S22 Series"/>-->
+<printer NAME="Microsoft XPS Document Writer"/>
+</settings>

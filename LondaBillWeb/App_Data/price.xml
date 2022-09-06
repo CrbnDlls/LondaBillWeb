@@ -1,0 +1,955 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<price>
+  <item ID="500" NAME="Жіночий манікюр (комплекс) " PRICE0="155" PRICE10="139,50" PRICESTAFF="108,50" IDN="723" />
+  <item ID="501" NAME="Жіночий манікюр без покриття нігтів лаком " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="724" />
+  <item ID="502" NAME="Полірування нігтів " PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="725" />
+  <item ID="503" NAME="Покриття нігтів лаком " PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="726" />
+  <item ID="504" NAME="Французьке покриття нігтів лаком " PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="727" />
+  <item ID="505" NAME="Декоративне покриття нігтів лаком 1 ніготь" PRICE0="12" PRICE10="10,80" PRICESTAFF="8,40" IDN="728" />
+  <item ID="506" NAME="Художнє оформлення нігтів 1 ніготь" PRICE0="17" PRICE10="15,30" PRICESTAFF="11,90" IDN="729" />
+  <item ID="507" NAME="Лікувальна основа " PRICE0="17" PRICE10="15,30" PRICESTAFF="11,90" IDN="730" />
+  <item ID="508" NAME="Масаж гігієнічний " PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="731" />
+  <item ID="509" NAME="Сушка-закріплення " PRICE0="17" PRICE10="15,30" PRICESTAFF="11,90" IDN="732" />
+  <item ID="510" NAME="Зняття лаку " PRICE0="15" PRICE10="13,50" PRICESTAFF="10,50" IDN="733" />
+  <item ID="537" NAME="Покриття нігтів гелем-лаком &quot;SHELLAC&quot; 1 ніготь" PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="734" />
+  <item ID="538" NAME="Покриття нігтів гелем-лаком &quot;SHELLAC&quot; &quot;Френч&quot; 1 ніготь" PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="735" />
+  <item ID="539" NAME="Зняття геля-лаку &quot;SHELLAC&quot; " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="736" />
+  <item ID="514" NAME="Нарощування нігтів акрилом 1 ніготь" PRICE0="49" PRICE10="44,10" PRICESTAFF="34,30" IDN="737" />
+  <item ID="515" NAME="Нарощування нігтів акрилом: &quot;Стилет&quot;, &quot;Френч&quot; 1 ніготь" PRICE0="59" PRICE10="53,10" PRICESTAFF="41,30" IDN="738" />
+  <item ID="516" NAME="Нарощування нігтів акрилом: &quot;Акваріум&quot; 1 ніготь" PRICE0="69" PRICE10="62,10" PRICESTAFF="48,30" IDN="739" />
+  <item ID="517" NAME="Ліплення акрилом 1 ніготь" PRICE0="22" PRICE10="19,80" PRICESTAFF="15,40" IDN="740" />
+  <item ID="518" NAME="Ремонт нігтів акрилом 1 ніготь" PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="741" />
+  <item ID="519" NAME="Корекція нігтів акрилом 1 ніготь" PRICE0="27" PRICE10="24,30" PRICESTAFF="18,90" IDN="742" />
+  <item ID="520" NAME="Корекція нігтів акрилом: &quot;Френч&quot;, &quot;Стилет&quot; 1 ніготь" PRICE0="32" PRICE10="28,80" PRICESTAFF="22,40" IDN="743" />
+  <item ID="521" NAME="Корекція нігтів акрилом: &quot;Акваріум&quot; 1 ніготь" PRICE0="38" PRICE10="34,20" PRICESTAFF="26,60" IDN="744" />
+  <item ID="522" NAME="Зняття акрилових нігтів " PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="745" />
+  <item ID="523" NAME="Нарощування нігтів гелем 1 ніготь" PRICE0="59" PRICE10="53,10" PRICESTAFF="41,30" IDN="746" />
+  <item ID="524" NAME="Нарощування нігтів гелем: &quot;Стилет&quot;, &quot;Френч&quot; 1 ніготь" PRICE0="69" PRICE10="62,10" PRICESTAFF="48,30" IDN="747" />
+  <item ID="525" NAME="Нарощування нігтів гелем: &quot;Акваріум&quot; 1 ніготь" PRICE0="79" PRICE10="71,10" PRICESTAFF="55,30" IDN="748" />
+  <item ID="526" NAME="Корекція нігтів гелем 1 ніготь" PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="749" />
+  <item ID="527" NAME="Корекція нігтів гелем: &quot;Френч&quot;, &quot;Стилет&quot; 1 ніготь" PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="750" />
+  <item ID="528" NAME="Корекція нігтів гелем: &quot;Акваріум&quot; 1 ніготь" PRICE0="41" PRICE10="36,90" PRICESTAFF="28,70" IDN="751" />
+  <item ID="529" NAME="Зняття гелевих нігтів " PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="752" />
+  <item ID="530" NAME="Корекція довжини акрилових, гелевих нігтів " PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="753" />
+  <item ID="531" NAME="Апаратна обробка акрилових, гелевих нігтів " PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="754" />
+  <item ID="532" NAME="Оформлення нігтів бісером, стразами і т.д. 1 ніготь" PRICE0="16" PRICE10="14,40" PRICESTAFF="11,20" IDN="755" />
+  <item ID="535" NAME="Чоловічий манікюр без покриття нігтів лаком " PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="756" />
+  <item ID="536" NAME="Апаратний манікюр " PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="757" />
+  <item ID="540" NAME="Жіночий педикюр з покриття нігтів лаком комплекс" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="758" />
+  <item ID="595" NAME="Жіночий педикюр без покриття нігтів лаком пальці + стопа" PRICE0="265" PRICE10="238,50" PRICESTAFF="185,50" IDN="759" />
+  <item ID="596" NAME="Жіночий педикюр без покриття нігтів лаком пальці" PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="760" />
+  <item ID="597" NAME="Чоловічий педикюр без покриття нігтів лаком пальці + стопа" PRICE0="299" PRICE10="269,10" PRICESTAFF="209,30" IDN="761" />
+  <item ID="598" NAME="Чоловічий педикюр без покриття нігтів лаком пальці" PRICE0="160" PRICE10="144" PRICESTAFF="112" IDN="762" />
+  <item ID="541" NAME="Врослий ніготь (корекція) 1 шт" PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="763" />
+  <item ID="599" NAME="Видалення мозолей 1 шт" PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="764" />
+  <item ID="283" NAME="Нарощування вій повний об`єм (до 100 шт.)" PRICE0="825" PRICE10="742,50" PRICESTAFF="577,50" IDN="628" />
+  <item ID="398" NAME="Макіяж (денний) " PRICE0="550" PRICE10="495" PRICESTAFF="385" IDN="621" />
+  <item ID="886" NAME="Відновлюючий 2,5 мл" PRICE0="860" PRICE10="774" PRICESTAFF="602" IDN="772" />
+  <item ID="887" NAME="Відновлюючий 5 мл" PRICE0="1045" PRICE10="940,50" PRICESTAFF="731,50" IDN="773" />
+  <item ID="888" NAME="Відновлюючий гідрорезерв 1 мл" PRICE0="2145" PRICE10="1930,50" PRICESTAFF="1501,50" IDN="774" />
+  <item ID="889" NAME="Відновлюючий гідрорезерв 2 мл" PRICE0="2695" PRICE10="2425,50" PRICESTAFF="1886,50" IDN="775" />
+  <item ID="890" NAME="Стимулюючий ліполіз 2,5 мл" PRICE0="860" PRICE10="774" PRICESTAFF="602" IDN="776" />
+  <item ID="891" NAME="Стимулюючий ліполіз 5 мл" PRICE0="1045" PRICE10="940,50" PRICESTAFF="731,50" IDN="777" />
+  <item ID="892" NAME="Ліфтинговий 2,5 мл" PRICE0="860" PRICE10="774" PRICESTAFF="602" IDN="778" />
+  <item ID="893" NAME="Ліфтинговий 5 мл" PRICE0="1135" PRICE10="1021,50" PRICESTAFF="794,50" IDN="779" />
+  <item ID="894" NAME="Відновлюючий (зона декольте) 2,5 мл" PRICE0="860" PRICE10="774" PRICESTAFF="602" IDN="780" />
+  <item ID="895" NAME="Відновлюючий (зона декольте) 5 мл" PRICE0="1135" PRICE10="1021,50" PRICESTAFF="794,50" IDN="781" />
+  <item ID="896" NAME="Стимулюючий ліполіз 10 мл" PRICE0="2035" PRICE10="1831,50" PRICESTAFF="1424,50" IDN="782" />
+  <item ID="695" NAME="Термо - стрижка: обробка кінців по всій фомі стрижки коротке" PRICE0="399" PRICE10="359,10" PRICESTAFF="279,30" IDN="783" />
+  <item ID="696" NAME="Термо - стрижка: обробка кінців по всій фомі стрижки середнє" PRICE0="499" PRICE10="449,10" PRICESTAFF="349,30" IDN="784" />
+  <item ID="697" NAME="Термо - стрижка: обробка кінців по всій фомі стрижки коротке" PRICE0="699" PRICE10="629,10" PRICESTAFF="489,30" IDN="785" />
+  <item ID="699" NAME="Ексклюзивна обробка довжини волосся &quot;джгутиками&quot; довге" PRICE0="999" PRICE10="899,10" PRICESTAFF="699,30" IDN="786" />
+  <item ID="698" NAME="Ексклюзивна обробка довжини волосся &quot;джгутиками&quot; середнє" PRICE0="799" PRICE10="719,10" PRICESTAFF="559,30" IDN="787" />
+  <item ID="182" NAME="№5 Блиск для випрямлення волосся 125 мл" PRICE0="596" PRICE10="536,40" PRICESTAFF="397" IDN="793" />
+  <item ID="183" NAME="№15 Крем вологостійкий для випрямлення волосся 200 мл" PRICE0="458" PRICE10="412,20" PRICESTAFF="305" IDN="794" />
+  <item ID="184" NAME="№8 Гумка моделююча 100 мл" PRICE0="499" PRICE10="449,10" PRICESTAFF="335" IDN="795" />
+  <item ID="185" NAME="№10 Віск моделюючий 100 мл" PRICE0="387" PRICE10="348,30" PRICESTAFF="258" IDN="796" />
+  <item ID="252" NAME="№22 Паста моделююча 100 мл" PRICE0="510" PRICE10="459" PRICESTAFF="340" IDN="797" />
+  <item ID="253" NAME="№25 Крем моделюючий 200 мл" PRICE0="566" PRICE10="509,40" PRICESTAFF="377" IDN="798" />
+  <item ID="206" NAME="Ліпокомплекс ( бальзам для стрижки ) 200 мл" PRICE0="440" PRICE10="396" PRICESTAFF="293" IDN="799" />
+  <item ID="207" NAME="Ліпокомплекс Біфазний  -  лосьйон відновлюючий ( упаковка ) 12 х 10 мл" PRICE0="797" PRICE10="717,30" PRICESTAFF="531" IDN="800" />
+  <item ID="258" NAME="Маска для волосся ( лецитин + колаген ) 200 мл" PRICE0="499" PRICE10="449,10" PRICESTAFF="333" IDN="801" />
+  <item ID="259" NAME="Активний блиск ( для надання об`єму та блиску ) 50 мл" PRICE0="659" PRICE10="593,10" PRICESTAFF="425" IDN="802" />
+  <item ID="232" NAME="Нейтральний шампунь на соєвому лецитині 200 мл" PRICE0="237" PRICE10="213,30" PRICESTAFF="152" IDN="803" />
+  <item ID="186" NAME="№6 Лосьйон концентрований  для блиску та об`єму 50 мл" PRICE0="610" PRICE10="549" PRICESTAFF="420" IDN="804" />
+  <item ID="187" NAME="№7 Спрей-блиск 125 мл" PRICE0="599" PRICE10="539,10" PRICESTAFF="399" IDN="805" />
+  <item ID="188" NAME="№20 Віск-блиск 100 мл" PRICE0="425" PRICE10="382,50" PRICESTAFF="283" IDN="806" />
+  <item ID="189" NAME="№16 Крем-гель для формування локонів 200 мл" PRICE0="477" PRICE10="429,30" PRICESTAFF="318" IDN="807" />
+  <item ID="190" NAME="№14 Мус - віск для підтримки та формування завитку 200 мл" PRICE0="347" PRICE10="312,30" PRICESTAFF="231" IDN="808" />
+  <item ID="191" NAME=" №3 Піна об'ємна ( для максимального об'єму та контролю) 200 мл" PRICE0="366" PRICE10="329,30" PRICESTAFF="244" IDN="809" />
+  <item ID="192" NAME="Гель з камуфлюючим ефектом / Black gel 170 мл" PRICE0="610" PRICE10="549" PRICESTAFF="405" IDN="810" />
+  <item ID="193" NAME="№24 Сироватка реконструююча 200 мл" PRICE0="485" PRICE10="436,50" PRICESTAFF="323" IDN="811" />
+  <item ID="195" NAME="№2 Лак сильної фіксації 500 мл" PRICE0="347" PRICE10="312,30" PRICESTAFF="231" IDN="812" />
+  <item ID="196" NAME="Лак екологічний сильної фіксації / Lacca ecologica 300 мл" PRICE0="545" PRICE10="490,50" PRICESTAFF="359" IDN="813" />
+  <item ID="198" NAME="№9 Помада блиск 100 мл" PRICE0="428" PRICE10="385,20" PRICESTAFF="285" IDN="814" />
+  <item ID="199" NAME="№11 Гель сильної фіксації 200 мл" PRICE0="324" PRICE10="291,60" PRICESTAFF="216" IDN="815" />
+  <item ID="200" NAME="№12 Гель - клей 200 мл" PRICE0="381" PRICE10="342,90" PRICESTAFF="254" IDN="816" />
+  <item ID="201" NAME="№13 Гель поживний 200 мл" PRICE0="375" PRICE10="337,50" PRICESTAFF="250" IDN="817" />
+  <item ID="202" NAME="№17 Гель-спрей сильної фіксації 200 мл" PRICE0="492" PRICE10="442,80" PRICESTAFF="328" IDN="818" />
+  <item ID="203" NAME="№18 Гель-спрей середньої фіксації 200 мл" PRICE0="482" PRICE10="433,80" PRICESTAFF="321" IDN="819" />
+  <item ID="204" NAME="№19 Гель з мокрим ефектом 200 мл" PRICE0="342" PRICE10="307,80" PRICESTAFF="228" IDN="820" />
+  <item ID="205" NAME="№23 Гель з ефектом блиску 200 мл" PRICE0="342" PRICE10="307,80" PRICESTAFF="228" IDN="821" />
+  <item ID="565" NAME="Гель-флюїд для полегшення стрижки / Cutting point 500 мл" PRICE0="761" PRICE10="684,90" PRICESTAFF="507" IDN="822" />
+  <item ID="566" NAME="Лак універсальний сильної (середньої) фіксації / Styling hair spray 400 мл" PRICE0="443" PRICE10="398,70" PRICESTAFF="295" IDN="823" />
+  <item ID="567" NAME="Піна для текстури та об`єму / Texturising mousse 250 мл" PRICE0="556" PRICE10="500,40" PRICESTAFF="359" IDN="824" />
+  <item ID="568" NAME="Гель-спрей суперсильної фіксації / Super glue 200 мл" PRICE0="634" PRICE10="570,60" PRICESTAFF="409" IDN="825" />
+  <item ID="569" NAME="Флюїд для об`єму середньої фіксації / Fiber fluid 200 мл" PRICE0="645" PRICE10="580,50" PRICESTAFF="416" IDN="826" />
+  <item ID="570" NAME="Вирівнюючий флюїд (антистатик, термозахист, відновлення) / Frizz con 200 мл" PRICE0="710" PRICE10="639" PRICESTAFF="467" IDN="827" />
+  <item ID="571" NAME="Крем текстурний - &quot;волокно&quot; 100 мл" PRICE0="659" PRICE10="593,10" PRICESTAFF="439" IDN="828" />
+  <item ID="572" NAME="Флюід-терапія концентрований з аргановим маслом / Gloss terapia 50 мл" PRICE0="788" PRICE10="709,20" PRICESTAFF="525" IDN="829" />
+  <item ID="573" NAME="Гель унісекс нового покоління суперсильної фіксації / Shaper glue 250 мл" PRICE0="548" PRICE10="493,20" PRICESTAFF="365" IDN="830" />
+  <item ID="574" NAME="Помада скульптурна / Sculpting pomade 50 мл" PRICE0="569" PRICE10="512,10" PRICESTAFF="379" IDN="831" />
+  <item ID="575" NAME="Паста унісекс з матовим ефектом / Matt past 50 мл" PRICE0="599" PRICE10="539,10" PRICESTAFF="414" IDN="832" />
+  <item ID="576" NAME="Флюід-крем для завитого волосся / Curl activator 200 мл" PRICE0="639" PRICE10="575,10" PRICESTAFF="426" IDN="833" />
+  <item ID="577" NAME="Спрей-флюід для фінального блиску / Extreme shine 100 мл" PRICE0="704" PRICE10="633,60" PRICESTAFF="469" IDN="834" />
+  <item ID="256" NAME="Бальзам для захисту кольору / color 1000 мл" PRICE0="789" PRICE10="710,10" PRICESTAFF="509" IDN="837" />
+  <item ID="170" NAME="D1 Нейтральний шампунь Еквалайзер для щоденного використання 1000 мл" PRICE0="299" PRICE10="269,10" PRICESTAFF="195" IDN="838" />
+  <item ID="171" NAME="D4 Шампунь відновлюючий (з протеїном) 300 мл" PRICE0="275" PRICE10="247,50" PRICESTAFF="183" IDN="839" />
+  <item ID="172" NAME="S1 Шампунь для жирного волосся (з протеїном) 300 мл" PRICE0="275" PRICE10="247,50" PRICESTAFF="182" IDN="840" />
+  <item ID="173" NAME="F1 Шампунь від лупи (з протеїном) 300 мл" PRICE0="275" PRICE10="247,50" PRICESTAFF="182" IDN="841" />
+  <item ID="174" NAME="D3 Шампунь тонізуючий (з протеїном) 300 мл" PRICE0="275" PRICE10="247,50" PRICESTAFF="183" IDN="842" />
+  <item ID="244" NAME="D4 Шампунь відновлюючий (з протеїном) 1000 мл" PRICE0="566" PRICE10="509,40" PRICESTAFF="377" IDN="843" />
+  <item ID="245" NAME="S1 Шампунь для жирного волосся (з протеїном) 1000 мл" PRICE0="579" PRICE10="521,10" PRICESTAFF="384" IDN="844" />
+  <item ID="246" NAME="F1 Шампунь від лупи (з протеїном) 1000 мл" PRICE0="548" PRICE10="493,20" PRICESTAFF="363" IDN="845" />
+  <item ID="247" NAME="D3 Шампунь тонізуючий (з протеїном) 1000 мл" PRICE0="555" PRICE10="499,50" PRICESTAFF="367" IDN="846" />
+  <item ID="175" NAME="D2 Кондиціонер відновлюючий  з фітопланктоном 300 мл" PRICE0="299" PRICE10="269,10" PRICESTAFF="199" IDN="847" />
+  <item ID="248" NAME="D2 Кондиціонер відновлюючий  з фітопланктоном 1000 мл" PRICE0="614" PRICE10="552,60" PRICESTAFF="409" IDN="848" />
+  <item ID="176" NAME="Шампунь очищуючий  (запобігає вимиванню кольору з pH 6.0) 300 мл" PRICE0="232" PRICE10="208,80" PRICESTAFF="145" IDN="849" />
+  <item ID="194" NAME="Шампунь очищуючий  (запобігає вимиванню кольору з pH 6.0) 1000 мл" PRICE0="623" PRICE10="560,70" PRICESTAFF="415" IDN="850" />
+  <item ID="177" NAME="Кондиціонер суперзволожуючий  (закріплювач кольору з pH 6.0) 300 мл" PRICE0="232" PRICE10="208,80" PRICESTAFF="145" IDN="851" />
+  <item ID="217" NAME="Кондиціонер суперзволожуючий  (закріплювач кольору з pH 6.0) 1000 мл" PRICE0="615" PRICE10="553,50" PRICESTAFF="410" IDN="852" />
+  <item ID="178" NAME="Ополіскувач відтіночний  (запобіжний засіб від жовтого кольору) 300 мл" PRICE0="333" PRICE10="299,70" PRICESTAFF="222" IDN="853" />
+  <item ID="179" NAME="Маска для волосся  Мідопла 250 мл" PRICE0="399" PRICE10="359,10" PRICESTAFF="269" IDN="854" />
+  <item ID="180" NAME="Маска для волосся  Мідопла 500 мл" PRICE0="495" PRICE10="445,50" PRICESTAFF="316" IDN="855" />
+  <item ID="249" NAME="Маска для волосся  Мідопла 1000 мл" PRICE0="689" PRICE10="620,10" PRICESTAFF="439" IDN="856" />
+  <item ID="181" NAME="Лосьйон pH 3.5 відновлюючий 250 мл" PRICE0="541" PRICE10="486,90" PRICESTAFF="347" IDN="857" />
+  <item ID="208" NAME="Ліпокомплекс Біфазний  -  лосьйон відновлюючий ( в ампулах ) 1 х 10 мл" PRICE0="70" PRICE10="63" PRICESTAFF="47" IDN="858" />
+  <item ID="209" NAME="N4 Сироватка мінералізована відновлююча з насіння льону ( в ампулах )  1 х 10 мл" PRICE0="54" PRICE10="48,60" PRICESTAFF="36" IDN="859" />
+  <item ID="210" NAME="N5 Лосьйон &quot;Плацента Себ&quot; для відновлення послабленого волосся ( в ампулах ) 1 х 10 мл" PRICE0="62" PRICE10="55,80" PRICESTAFF="41" IDN="860" />
+  <item ID="211" NAME="R6 Сироватка Активна з кератиновим комплексом ( в ампулах ) 1 х 10 мл" PRICE0="64" PRICE10="57,60" PRICESTAFF="43" IDN="861" />
+  <item ID="215" NAME="F2 Лосьйон  від лупи ( упаковка ) 12 х 10 мл" PRICE0="728" PRICE10="655,20" PRICESTAFF="482" IDN="865" />
+  <item ID="216" NAME="S2 Лосьйон для жирного волосся ( упаковка ) 12 х 10 мл" PRICE0="728" PRICE10="655,20" PRICESTAFF="482" IDN="866" />
+  <item ID="222" NAME="N5 Лосьйон &quot;Плацента Себ&quot; для відновлення послабленого волосся ( упаковка ) 12 х 10 мл" PRICE0="663" PRICE10="596,70" PRICESTAFF="416" IDN="871" />
+  <item ID="242" NAME="N2 Кондиціонер мінералізуючий для сухого та пошкодженого волосся 1000 мл" PRICE0="595" PRICE10="535,50" PRICESTAFF="395" IDN="887" />
+  <item ID="262" NAME="N3 Крем-компрес для відновлення та живлення пошкодженого волосся 250 мл" PRICE0="297" PRICE10="267,30" PRICESTAFF="198" IDN="888" />
+  <item ID="263" NAME="N3 Крем-компрес для відновлення та живлення пошкодженого волосся 500 мл" PRICE0="399" PRICE10="359,10" PRICESTAFF="266" IDN="889" />
+  <item ID="578" NAME="N3 Крем-компрес для відновлення та живлення пошкодженого волосся 1000 мл" PRICE0="599" PRICE10="539,10" PRICESTAFF="399" IDN="890" />
+  <item ID="265" NAME="N4 Сироватка мінералізована відновлююча з насіння льону ( упаковка ) 12 х 10 мл" PRICE0="620" PRICE10="558" PRICESTAFF="413" IDN="891" />
+  <item ID="579" NAME="R1 Шампунь Праймер 300 мл" PRICE0="297" PRICE10="267,30" PRICESTAFF="198" IDN="892" />
+  <item ID="580" NAME="R1 Шампунь Праймер 1000 мл" PRICE0="608" PRICE10="547,20" PRICESTAFF="380" IDN="893" />
+  <item ID="581" NAME="R2 Крем Кератиновий 250 мл" PRICE0="422" PRICE10="379,80" PRICESTAFF="272" IDN="894" />
+  <item ID="582" NAME="R2 Крем Кератиновий 500 мл" PRICE0="608" PRICE10="547,20" PRICESTAFF="380" IDN="895" />
+  <item ID="583" NAME="R3 Емульсія Відновлююча 300 мл" PRICE0="363" PRICE10="326,70" PRICESTAFF="234" IDN="896" />
+  <item ID="584" NAME="R3 Емульсія Відновлююча 1000 мл" PRICE0="668" PRICE10="601,20" PRICESTAFF="431" IDN="897" />
+  <item ID="585" NAME="R4 Масло Ультра легке 50 мл" PRICE0="411" PRICE10="369,90" PRICESTAFF="272" IDN="898" />
+  <item ID="586" NAME="R4 Масло Ультра легке 100 мл" PRICE0="653" PRICE10="587,70" PRICESTAFF="435" IDN="899" />
+  <item ID="587" NAME="R5 Масло Мультифункціональне 50 мл" PRICE0="438" PRICE10="394,20" PRICESTAFF="290" IDN="900" />
+  <item ID="588" NAME="R5 Масло Мультифункціональне 100 мл" PRICE0="689" PRICE10="620,10" PRICESTAFF="459" IDN="901" />
+  <item ID="589" NAME="R6 Сироватка Активна з кератиновим комплексом ( упаковка ) 10 х 10 мл" PRICE0="612" PRICE10="550,80" PRICESTAFF="395" IDN="902" />
+  <item ID="237" NAME="Шампунь відновлюючий після засмаги 300 мл" PRICE0="575" PRICE10="517,50" PRICESTAFF="378" IDN="903" />
+  <item ID="238" NAME="Бальзам поживний (що не змивається) 200 мл" PRICE0="688" PRICE10="619,20" PRICESTAFF="459" IDN="904" />
+  <item ID="243" NAME="Шампунь - гель для душу з екстрактом полуниці, помаранчу, дині,... 300 мл" PRICE0="213" PRICE10="191,70" PRICESTAFF="141" IDN="905" />
+  <item ID="264" NAME="Шампунь - гель для душу з екстрактом полуниці, помаранчу, дині,... 1000 мл" PRICE0="399" PRICE10="359,10" PRICESTAFF="267" IDN="906" />
+  <item ID="290" NAME="Шампунь для об`єму (Бубл Гум) 250 мл" PRICE0="268" PRICE10="241,20" PRICESTAFF="173" IDN="907" />
+  <item ID="291" NAME="Шампунь поживний пом`якшуючий (Полуниця та Йогурт) 250 мл" PRICE0="268" PRICE10="241,20" PRICESTAFF="173" IDN="908" />
+  <item ID="292" NAME="Шампунь чоловічий з екстрактами М`яти та Розмаину 250 мл" PRICE0="268" PRICE10="241,20" PRICESTAFF="173" IDN="909" />
+  <item ID="293" NAME="Шампунь відновлюючий (Лакриця) 250 мл" PRICE0="268" PRICE10="241,20" PRICESTAFF="173" IDN="910" />
+  <item ID="295" NAME="Універсальний набір &quot;SILKAT&quot; (C1,D1,N1,N2,R1,R3) 6 x 60 мл" PRICE0="550" PRICE10="495" PRICESTAFF="440" IDN="911" />
+  <item ID="294" NAME="Маска інтенсивна ревіталізуюча (Банан та Кокос) 250 мл" PRICE0="316" PRICE10="284,40" PRICESTAFF="204" IDN="912" />
+  <item ID="296" NAME="Крем-комплекс інтенсивний для зменшення пористості(Папайя) 250 мл" PRICE0="316" PRICE10="284,40" PRICESTAFF="204" IDN="913" />
+  <item ID="297" NAME="Кондиціонер пом`якшуючий та вирівнюючий волосся (Фісташковий) 200 мл" PRICE0="296" PRICE10="266,40" PRICESTAFF="191" IDN="914" />
+  <item ID="298" NAME="Кондиціонер для пом`якшення та об`єму (Тростинний цукор) 200 мл" PRICE0="296" PRICE10="266,40" PRICESTAFF="191" IDN="915" />
+  <item ID="230" NAME="Бальзам для захисту кольору / color 300 мл" PRICE0="386" PRICE10="347,40" PRICESTAFF="249" IDN="916" />
+  <item ID="100" NAME="Віск на водній основі / Water Wax 100 мл" PRICE0="445" PRICE10="400,50" PRICESTAFF="288" IDN="919" />
+  <item ID="101" NAME="Набір подарунковий (R1(300 мл) + R2(300 мл) + R4(50 мл)) " PRICE0="999" PRICE10="899" PRICESTAFF="670" IDN="920" />
+  <item ID="102" NAME="Набір подарунковий (R1(300 мл) + R2(300 мл) + R5(50 мл)) " PRICE0="1045" PRICE10="941" PRICESTAFF="697" IDN="921" />
+  <item ID="103" NAME="Шампунь для захисту кольору / color 300 мл" PRICE0="364" PRICE10="327,60" PRICESTAFF="235" IDN="922" />
+  <item ID="104" NAME="Шампунь для захисту кольору / color 1000 мл" PRICE0="749" PRICE10="674,10" PRICESTAFF="485" IDN="923" />
+  <item ID="105" NAME="Масло захисне 180 мл" PRICE0="765" PRICE10="688,50" PRICESTAFF="511" IDN="924" />
+  <item ID="109" NAME="Бальзам для кучерявого волосся / curl 300 мл" PRICE0="386" PRICE10="347,40" PRICESTAFF="249" IDN="928" />
+  <item ID="110" NAME="Бальзам для кучерявого волосся / curl 1000 мл" PRICE0="789" PRICE10="710,10" PRICESTAFF="509" IDN="929" />
+  <item ID="115" NAME="Шампунь для кучерявого волосся / curl 300 мл" PRICE0="364" PRICE10="327,60" PRICESTAFF="235" IDN="934" />
+  <item ID="119" NAME="Бальзам з ефектом вирівнювання / smooth 300 мл" PRICE0="386" PRICE10="347,40" PRICESTAFF="249" IDN="935" />
+  <item ID="116" NAME="Шампунь для кучерявого волосся / curl 1000 мл" PRICE0="749" PRICE10="674,10" PRICESTAFF="485" IDN="936" />
+  <item ID="120" NAME="Бальзам з ефектом вирівнювання / smooth 1000 мл" PRICE0="789" PRICE10="710,10" PRICESTAFF="509" IDN="937" />
+  <item ID="121" NAME="Шампунь з ефектом вирівнювання / smooth 300 мл" PRICE0="364" PRICE10="327,60" PRICESTAFF="235" IDN="938" />
+  <item ID="470" NAME="Послуги солярію 1 хв." PRICE0="7" PRICE10="6,30" PRICESTAFF="1" IDN="941" />
+  <item ID="471" NAME="Косметика для засмаги &quot;Estel&quot; 15 мл" PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="942" />
+  <item ID="1075" NAME="Масаж спини 30 хв." PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="946" />
+  <item ID="1059" NAME="Полірування волосся: додатково до комплексної стрижки коротке (1 год.)" PRICE0="470" PRICE10="423" PRICESTAFF="329" IDN="1003" />
+  <item ID="477" NAME="Одноразові тапочки 1 пара" PRICE0="7" PRICE10="6,30" PRICESTAFF="4,90" IDN="950" />
+  <item ID="478" NAME="Одноразова шапочка 1 шт" PRICE0="7" PRICE10="6,30" PRICESTAFF="4,90" IDN="951" />
+  <item ID="479" NAME="Одноразовий рушник 1 шт" PRICE0="7" PRICE10="6,30" PRICESTAFF="4,90" IDN="952" />
+  <item ID="480" NAME="Захисні наклейки 1 пара" PRICE0="7" PRICE10="6,30" PRICESTAFF="4,90" IDN="953" />
+  <item ID="1060" NAME="Полірування волосся: додатково до комплексної стрижки середнє (1,5 год.)" PRICE0="550" PRICE10="495" PRICESTAFF="385" IDN="1004" />
+  <item ID="1061" NAME="Полірування волосся: додатково до комплексної стрижки довге (2 год.)" PRICE0="750" PRICE10="675" PRICESTAFF="525" IDN="1005" />
+  <item ID="1062" NAME="Полірування волосся (комплекс) коротке (1 год.)" PRICE0="745" PRICE10="670,50" PRICESTAFF="521,50" IDN="1006" />
+  <item ID="1063" NAME="Полірування волосся (комплекс) середнє (1,5 год.)" PRICE0="920" PRICE10="828" PRICESTAFF="644" IDN="1007" />
+  <item ID="1064" NAME="Полірування волосся (комплекс) довге (2 год.)" PRICE0="1055" PRICE10="949,50" PRICESTAFF="738,50" IDN="1008" />
+  <item ID="1066" NAME="Масаж лиця (Жаке) 15 хв." PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="1010" />
+  <item ID="1067" NAME="Масаж лиця палстичний 10 хв." PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="1011" />
+  <item ID="1068" NAME="Масаж лиця поживний класичний 30 хв." PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="1012" />
+  <item ID="125" NAME="B1 Шампунь для слабкого, фарбованого та завитого волосся 400 мл" PRICE0="599" PRICE10="539,10" PRICESTAFF="435" IDN="1013" />
+  <item ID="126" NAME="B1 Шампунь для слабкого, фарбованого та завитого волосся 1000 мл" PRICE0="981" PRICE10="882,90" PRICESTAFF="711" IDN="1014" />
+  <item ID="127" NAME="B2 Маска для волосся (Сила і Енергія зі зволожуючим фактором) 400 мл" PRICE0="890" PRICE10="801" PRICESTAFF="645" IDN="1015" />
+  <item ID="128" NAME="B3 Відновлюючий комплекс для слабкого, фарбованого та завитого волосся 400 мл" PRICE0="631" PRICE10="567,90" PRICESTAFF="457" IDN="1016" />
+  <item ID="129" NAME="B3 Відновлюючий комплекс для слабкого, фарбованого та завитого волосся 1000 мл" PRICE0="998" PRICE10="898,20" PRICESTAFF="723" IDN="1017" />
+  <item ID="130" NAME="B4 Комплекс - активний укріплюючий 100 мл" PRICE0="914" PRICE10="822,60" PRICESTAFF="653" IDN="1018" />
+  <item ID="131" NAME="B5 Сироватка - енергетична укріплюююча 100 мл" PRICE0="914" PRICE10="822,60" PRICESTAFF="653" IDN="1019" />
+  <item ID="132" NAME="S1 Шампунь від лупи 400 мл" PRICE0="549" PRICE10="494,10" PRICESTAFF="398" IDN="1020" />
+  <item ID="133" NAME="S1 Шампунь від лупи 1000 мл" PRICE0="899" PRICE10="809,10" PRICESTAFF="653" IDN="1021" />
+  <item ID="134" NAME="S2 Лосьйон від лупи 100 мл" PRICE0="745" PRICE10="670,50" PRICESTAFF="540" IDN="1022" />
+  <item ID="135" NAME="V1 Шампунь від випадіння волосся 400 мл" PRICE0="607" PRICE10="546,30" PRICESTAFF="440" IDN="1023" />
+  <item ID="136" NAME="V1 Шампунь від випадіння волосся 1000 мл" PRICE0="999" PRICE10="899,10" PRICESTAFF="729" IDN="1024" />
+  <item ID="137" NAME="V2 Лосьйон від від випадіння волосся 1000 мл" PRICE0="760" PRICE10="684" PRICESTAFF="530" IDN="1025" />
+  <item ID="138" NAME="Р1 Шампунь себобалансуючий 400 мл" PRICE0="620" PRICE10="558" PRICESTAFF="449" IDN="1026" />
+  <item ID="139" NAME="Р1 Шампунь себобалансуючий 1000 мл" PRICE0="999" PRICE10="899,10" PRICESTAFF="734" IDN="1027" />
+  <item ID="140" NAME="Р2 Лосьйон себобалансуючий 100 мл" PRICE0="723" PRICE10="650,70" PRICESTAFF="524" IDN="1028" />
+  <item ID="141" NAME="G1 Шампунь для інтенсивного живлення волосся 400 мл" PRICE0="638" PRICE10="574,20" PRICESTAFF="462" IDN="1029" />
+  <item ID="142" NAME="G1 Шампунь для інтенсивного живлення волосся 1000 мл" PRICE0="1098" PRICE10="988,20" PRICESTAFF="796" IDN="1030" />
+  <item ID="143" NAME="G2 Маска для інтенсивного живлення волосся 100 мл" PRICE0="995" PRICE10="895,50" PRICESTAFF="748" IDN="1031" />
+  <item ID="144" NAME="G3 Бальзам для інтенсивного живлення волосся 400 мл" PRICE0="649" PRICE10="584,10" PRICESTAFF="465" IDN="1032" />
+  <item ID="145" NAME="G3 Бальзам для інтенсивного живлення волосся 1000 мл" PRICE0="1083" PRICE10="974,70" PRICESTAFF="785" IDN="1033" />
+  <item ID="146" NAME="G4 Масло для захисту та відновлення волосся 100 мл" PRICE0="789" PRICE10="710,10" PRICESTAFF="572" IDN="1034" />
+  <item ID="147" NAME="G5 Флюїд поживний мультиактивний для волосся 50 мл" PRICE0="615" PRICE10="553,50" PRICESTAFF="446" IDN="1035" />
+  <item ID="148" NAME="G6 Сироватка - інтенсивне живлення 100 мл" PRICE0="940" PRICE10="846" PRICESTAFF="681" IDN="1036" />
+  <item ID="149" NAME="R1 Лосьйон Детокс 100 мл" PRICE0="782" PRICE10="703,80" PRICESTAFF="567" IDN="1037" />
+  <item ID="300" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="215" PRICE10="193,50" PRICESTAFF="150,50" IDN="404" />
+  <item ID="301" NAME="Підкорочування волосся до 2 см або чубчика " PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="405" />
+  <item ID="302" NAME="Стрижка модельна " PRICE0="385" PRICE10="346,50" PRICESTAFF="269,50" IDN="406" />
+  <item ID="303" NAME="Стрижка модельна (комплекс) коротке" PRICE0="515" PRICE10="463,50" PRICESTAFF="360,50" IDN="407" />
+  <item ID="304" NAME="Стрижка модельна (комплекс) середнє" PRICE0="600" PRICE10="540" PRICESTAFF="420" IDN="408" />
+  <item ID="305" NAME="Стрижка модельна (комплекс) довге" PRICE0="695" PRICE10="625,50" PRICESTAFF="486,50" IDN="409" />
+  <item ID="351" NAME="Укладка волосся (комплекс) коротке" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="410" />
+  <item ID="352" NAME="Укладка волосся (комплекс) середнє" PRICE0="340" PRICE10="306" PRICESTAFF="238" IDN="411" />
+  <item ID="353" NAME="Укладка волосся (комплекс) довге" PRICE0="440" PRICE10="396" PRICESTAFF="308" IDN="412" />
+  <item ID="388" NAME="Сушка волосся коротке" PRICE0="130" PRICE10="117" PRICESTAFF="91" IDN="413" />
+  <item ID="389" NAME="Сушка волосся середнє" PRICE0="230" PRICE10="207" PRICESTAFF="161" IDN="414" />
+  <item ID="390" NAME="Сушка волосся довге" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="415" />
+  <item ID="361" NAME="Плетіння однієї коси " PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="416" />
+  <item ID="150" NAME="B1 Шампунь для слабкого, фарбованого та завитого волосся 100 мл" PRICE0="247" PRICE10="222,30" PRICESTAFF="179" IDN="1038" />
+  <item ID="363" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; коротке" PRICE0="660" PRICE10="594" PRICESTAFF="462" IDN="418" />
+  <item ID="364" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; середнє" PRICE0="999" PRICE10="899,10" PRICESTAFF="699,30" IDN="419" />
+  <item ID="365" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; довге" PRICE0="1340" PRICE10="1206" PRICESTAFF="938" IDN="420" />
+  <item ID="367" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; коротке" PRICE0="825" PRICE10="742,50" PRICESTAFF="577,50" IDN="421" />
+  <item ID="368" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; середнє" PRICE0="1080" PRICE10="972" PRICESTAFF="756" IDN="422" />
+  <item ID="369" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; довге" PRICE0="1420" PRICE10="1278" PRICESTAFF="994" IDN="423" />
+  <item ID="358" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; коротке" PRICE0="850" PRICE10="765" PRICESTAFF="595" IDN="424" />
+  <item ID="359" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; середнє" PRICE0="1120" PRICE10="1008" PRICESTAFF="784" IDN="425" />
+  <item ID="360" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; довге" PRICE0="1460" PRICE10="1314" PRICESTAFF="1022" IDN="426" />
+  <item ID="371" NAME="Мелірування волосся препаратами &quot;BES&quot; коротке" PRICE0="690" PRICE10="621" PRICESTAFF="483" IDN="427" />
+  <item ID="372" NAME="Мелірування волосся препаратами &quot;BES&quot; середнє" PRICE0="890" PRICE10="801" PRICESTAFF="623" IDN="428" />
+  <item ID="373" NAME="Мелірування волосся препаратами &quot;BES&quot; довге" PRICE0="1299" PRICE10="1169,10" PRICESTAFF="909,30" IDN="429" />
+  <item ID="374" NAME="Тонування волосся препаратами &quot;BES&quot; коротке" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="430" />
+  <item ID="375" NAME="Тонування волосся препаратами &quot;BES&quot; середнє" PRICE0="360" PRICE10="324" PRICESTAFF="252" IDN="431" />
+  <item ID="376" NAME="Тонування волосся препаратами &quot;BES&quot; довге" PRICE0="520" PRICE10="468" PRICESTAFF="364" IDN="432" />
+  <item ID="377" NAME="Знебарвлення волосся препаратами &quot;BES&quot; корені до 3 см" PRICE0="370" PRICE10="333" PRICESTAFF="259" IDN="433" />
+  <item ID="378" NAME="Знебарвлення волосся препаратами &quot;BES&quot; коротке" PRICE0="605" PRICE10="544,50" PRICESTAFF="423,50" IDN="434" />
+  <item ID="379" NAME="Знебарвлення волосся препаратами &quot;BES&quot; середнє" PRICE0="815" PRICE10="733,50" PRICESTAFF="570,50" IDN="435" />
+  <item ID="380" NAME="Знебарвлення волосся препаратами &quot;BES&quot; довге" PRICE0="1180" PRICE10="1062" PRICESTAFF="826" IDN="436" />
+  <item ID="381" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="640" PRICE10="576" PRICESTAFF="448" IDN="437" />
+  <item ID="382" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="825" PRICE10="742,50" PRICESTAFF="577,50" IDN="438" />
+  <item ID="383" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="1099" PRICE10="989,10" PRICESTAFF="769,30" IDN="439" />
+  <item ID="151" NAME="B3 Відновлюючий комплекс для слабкого, фарбованого та завитого волосся 100 мл" PRICE0="247" PRICE10="222,30" PRICESTAFF="179" IDN="1039" />
+  <item ID="152" NAME="S1 Шампунь від лупи 100 мл" PRICE0="247" PRICE10="222,30" PRICESTAFF="179" IDN="1040" />
+  <item ID="153" NAME="V1 Шампунь від випадіння волосся 100 мл" PRICE0="247" PRICE10="222,30" PRICESTAFF="179" IDN="1041" />
+  <item ID="384" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="1035" PRICE10="931,50" PRICESTAFF="724,50" IDN="443" />
+  <item ID="385" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="1210" PRICE10="1089" PRICESTAFF="847" IDN="444" />
+  <item ID="386" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="1485" PRICE10="1336,50" PRICESTAFF="1039,50" IDN="445" />
+  <item ID="154" NAME="Р1 Шампунь себобалансуючий 100 мл" PRICE0="247" PRICE10="222,30" PRICESTAFF="179" IDN="1042" />
+  <item ID="155" NAME="G1 Шампунь для інтенсивного живлення волосся 100 мл" PRICE0="247" PRICE10="222,30" PRICESTAFF="179" IDN="1043" />
+  <item ID="156" NAME="R8 Гоммаж дермозахиний 100 мл" PRICE0="636" PRICE10="572,40" PRICESTAFF="461" IDN="1044" />
+  <item ID="328" NAME="Миття волосся (одноразовий рушник) " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="449" />
+  <item ID="157" NAME="R9 Пілінг - ексфоліант 100 мл" PRICE0="483" PRICE10="434,70" PRICESTAFF="350" IDN="1045" />
+  <item ID="158" NAME="Домашній догляд Chainplex (регенерація кератинових зв'язків) 100 мл" PRICE0="829" PRICE10="746,10" PRICESTAFF="592" IDN="1046" />
+  <item ID="347" NAME="Лікування волосся бальзамом коротке" PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="452" />
+  <item ID="348" NAME="Лікування волосся бальзамом середнє" PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="453" />
+  <item ID="349" NAME="Лікування волосся бальзамом довге" PRICE0="145" PRICE10="130,50" PRICESTAFF="101,50" IDN="454" />
+  <item ID="329" NAME="Використання косметики: (пінка, лак, гель, віск, ..) коротке" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="455" />
+  <item ID="330" NAME="Використання косметики: (пінка, лак, гель, віск, ..) середнє" PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="456" />
+  <item ID="339" NAME="Використання косметики: (пінка, лак, гель, віск, ..) довге" PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="457" />
+  <item ID="312" NAME="Зачіска вечірня з використанням косметики коротке" PRICE0="650" PRICE10="585" PRICESTAFF="455" IDN="458" />
+  <item ID="313" NAME="Зачіска вечірня з використанням косметики середнє" PRICE0="990" PRICE10="891" PRICESTAFF="693" IDN="459" />
+  <item ID="314" NAME="Зачіска вечірня з використанням косметики довге" PRICE0="1230" PRICE10="1107" PRICESTAFF="861" IDN="460" />
+  <item ID="159" NAME="G3 Бальзам для інтенсивного живлення волосся 100 мл" PRICE0="247" PRICE10="222,30" PRICESTAFF="179" IDN="1047" />
+  <item ID="1160" NAME="Чоловіча стрижка (комплекс) (з використанням косметики) " PRICE0="505" PRICE10="454,50" PRICESTAFF="353,50" IDN="1065" />
+  <item ID="1161" NAME="Стрижка бороди та вусів (з використанням косметики) " PRICE0="265" PRICE10="238,50" PRICESTAFF="185,50" IDN="1066" />
+  <item ID="1162" NAME="Стрижка бороди та вусів з окантовкою (з використанням косметики) " PRICE0="345" PRICE10="310,50" PRICESTAFF="241,50" IDN="1067" />
+  <item ID="1163" NAME="Камуфляж сивини " PRICE0="505" PRICE10="454,50" PRICESTAFF="353,50" IDN="1068" />
+  <item ID="484" NAME="Апаратний педикюр (комплекс) " PRICE0="600" PRICE10="540" PRICESTAFF="420" IDN="1069" />
+  <item ID="485" NAME="Апаратний педикюр (діабетична стопа) " PRICE0="750" PRICE10="675" PRICESTAFF="525" IDN="1070" />
+  <item ID="486" NAME="Апаратна обробка пальців ніг " PRICE0="320" PRICE10="288" PRICESTAFF="224" IDN="1071" />
+  <item ID="487" NAME="Апаратна обробка стоп " PRICE0="350" PRICE10="315" PRICESTAFF="245" IDN="1072" />
+  <item ID="488" NAME="Видалення стрижневого мозолю " PRICE0="200" PRICE10="180" PRICESTAFF="140" IDN="1073" />
+  <item ID="489" NAME="Часткова резекція нігтьової пластини 2, 3, 4, пальця 1 ніготь" PRICE0="300" PRICE10="270" PRICESTAFF="210" IDN="1074" />
+  <item ID="490" NAME="Часткова резекція нігтьової пластини першого пальця 1 ніготь" PRICE0="450" PRICE10="405" PRICESTAFF="315" IDN="1075" />
+  <item ID="491" NAME="Тампонування бічних пазух каполіном 1 ніготь" PRICE0="100" PRICE10="90" PRICESTAFF="70" IDN="1076" />
+  <item ID="492" NAME="Видалення врослої частини нігтя 1 ніготь" PRICE0="300" PRICE10="270" PRICESTAFF="210" IDN="1077" />
+  <item ID="493" NAME="Корекція врослої частини нігтя 1 ніготь" PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="1078" />
+  <item ID="494" NAME="Зменшення товщини нігтьової пластини першого пальця 1 ніготь" PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="1079" />
+  <item ID="495" NAME="Обробка нігтьової пластини при онихогрифозі / оніхолізисі / грибку 1 ніготь" PRICE0="180" PRICE10="162" PRICESTAFF="126" IDN="1080" />
+  <item ID="496" NAME="Обробка тріщин одна п'ята" PRICE0="200" PRICE10="180" PRICESTAFF="140" IDN="1081" />
+  <item ID="497" NAME="Видалення гіперкератозу (натоптиші) одна зона" PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="1082" />
+  <item ID="332" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="215" PRICE10="193,50" PRICESTAFF="150,50" IDN="480" />
+  <item ID="498" NAME="Збір аналізу на виявлення грибка " PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="1083" />
+  <item ID="334" NAME="Стрижка модельна " PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="482" />
+  <item ID="354" NAME="Стрижка модельна: &quot;Площадка&quot; " PRICE0="470" PRICE10="423" PRICESTAFF="329" IDN="483" />
+  <item ID="362" NAME="Стрижка модельна (комплекс) " PRICE0="450" PRICE10="405" PRICESTAFF="315" IDN="484" />
+  <item ID="370" NAME="Стрижка модельна: &quot;Площадка&quot; (комплекс) " PRICE0="550" PRICE10="495" PRICESTAFF="385" IDN="485" />
+  <item ID="338" NAME="Укладка волосся " PRICE0="160" PRICE10="144" PRICESTAFF="112" IDN="486" />
+  <item ID="499" NAME="Консультація спеціаліста / у ході проведення процедури - бескоштовно 15 хв." PRICE0="100" PRICE10="90" PRICESTAFF="70" IDN="1084" />
+  <item ID="366" NAME="Декоративне вистригання малюнку " PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="488" />
+  <item ID="336" NAME="Стрижка бороди " PRICE0="130" PRICE10="117" PRICESTAFF="91" IDN="489" />
+  <item ID="337" NAME="Стрижка вусів " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="490" />
+  <item ID="340" NAME="Миття волосся (одноразовий рушник) " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="491" />
+  <item ID="341" NAME="Використання косметики: (пінка, лак, гель, віск, ..) " PRICE0="99" PRICE10="89,10" PRICESTAFF="69,30" IDN="492" />
+  <item ID="400" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="493" />
+  <item ID="401" NAME="Підкорочування волосся до 2 см або чубчика " PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="494" />
+  <item ID="410" NAME="Сушка волосся середнє" PRICE0="180" PRICE10="162" PRICESTAFF="126" IDN="495" />
+  <item ID="454" NAME="Декоративне вистригання малюнку " PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="496" />
+  <item ID="455" NAME="Стрижка бороди " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="497" />
+  <item ID="452" NAME="Стрижка модельна: &quot;Площадка&quot; (комплекс) " PRICE0="440" PRICE10="396" PRICESTAFF="308" IDN="498" />
+  <item ID="453" NAME="Укладка волосся " PRICE0="125" PRICE10="112,50" PRICESTAFF="87,50" IDN="499" />
+  <item ID="402" NAME="Стрижка модельна (комплекс) коротке" PRICE0="410" PRICE10="369" PRICESTAFF="287" IDN="500" />
+  <item ID="403" NAME="Стрижка модельна (комплекс) середнє" PRICE0="485" PRICE10="436,50" PRICESTAFF="339,50" IDN="501" />
+  <item ID="404" NAME="Стрижка модельна (комплекс) довге" PRICE0="550" PRICE10="495" PRICESTAFF="385" IDN="502" />
+  <item ID="405" NAME="Стрижка модельна " PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="503" />
+  <item ID="412" NAME="Використання косметики: (пінка, лак, гель, віск, ..) коротке" PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="504" />
+  <item ID="413" NAME="Використання косметики: (пінка, лак, гель, віск, ..) середнє" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="505" />
+  <item ID="414" NAME="Використання косметики: (пінка, лак, гель, віск, ..) довге" PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="506" />
+  <item ID="406" NAME="Укладка волосся (комплекс) коротке" PRICE0="190" PRICE10="171" PRICESTAFF="133" IDN="507" />
+  <item ID="407" NAME="Укладка волосся (комплекс) середнє" PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="508" />
+  <item ID="408" NAME="Укладка волосся (комплекс) довге" PRICE0="345" PRICE10="310,50" PRICESTAFF="241,50" IDN="509" />
+  <item ID="415" NAME="Миття волосся (одноразовий рушник) " PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="510" />
+  <item ID="416" NAME="Лікування волосся бальзамом коротке" PRICE0="60" PRICE10="54" PRICESTAFF="42" IDN="511" />
+  <item ID="417" NAME="Лікування волосся бальзамом середнє" PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="512" />
+  <item ID="425" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; довге" PRICE0="1080" PRICE10="972" PRICESTAFF="756" IDN="513" />
+  <item ID="426" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; коротке" PRICE0="660" PRICE10="594" PRICESTAFF="462" IDN="514" />
+  <item ID="427" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; середнє" PRICE0="860" PRICE10="774" PRICESTAFF="602" IDN="515" />
+  <item ID="418" NAME="Лікування волосся бальзамом довге" PRICE0="115" PRICE10="103,50" PRICESTAFF="80,50" IDN="516" />
+  <item ID="419" NAME="Плетіння однієї коси " PRICE0="205" PRICE10="184,50" PRICESTAFF="143,50" IDN="517" />
+  <item ID="420" NAME="Зачіска вечірня з використанням косметики коротке" PRICE0="520" PRICE10="468" PRICESTAFF="364" IDN="518" />
+  <item ID="421" NAME="Зачіска вечірня з використанням косметики середнє" PRICE0="790" PRICE10="711" PRICESTAFF="553" IDN="519" />
+  <item ID="422" NAME="Зачіска вечірня з використанням косметики довге" PRICE0="985" PRICE10="886,50" PRICESTAFF="689,50" IDN="520" />
+  <item ID="423" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; коротке" PRICE0="520" PRICE10="468" PRICESTAFF="364" IDN="521" />
+  <item ID="424" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; середнє" PRICE0="799" PRICE10="719,10" PRICESTAFF="559,30" IDN="522" />
+  <item ID="444" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="880" PRICE10="792" PRICESTAFF="616" IDN="523" />
+  <item ID="445" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="825" PRICE10="742,50" PRICESTAFF="577,50" IDN="524" />
+  <item ID="446" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="960" PRICE10="864" PRICESTAFF="672" IDN="525" />
+  <item ID="428" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; довге" PRICE0="1135" PRICE10="1021,50" PRICESTAFF="794,50" IDN="526" />
+  <item ID="450" NAME="Стрижка модельна: &quot;Площадка&quot; " PRICE0="375" PRICE10="337,50" PRICESTAFF="262,50" IDN="527" />
+  <item ID="431" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; довге" PRICE0="1170" PRICE10="1053" PRICESTAFF="819" IDN="528" />
+  <item ID="447" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="1180" PRICE10="1062" PRICESTAFF="826" IDN="529" />
+  <item ID="448" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="530" />
+  <item ID="449" NAME="Стрижка модельна " PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="531" />
+  <item ID="429" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; коротке" PRICE0="675" PRICE10="607,50" PRICESTAFF="472,50" IDN="532" />
+  <item ID="430" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; середнє" PRICE0="895" PRICE10="805,50" PRICESTAFF="626,50" IDN="533" />
+  <item ID="439" NAME="Знебарвлення волосся препаратами &quot;BES&quot; коротке" PRICE0="485" PRICE10="436,50" PRICESTAFF="339,50" IDN="534" />
+  <item ID="432" NAME="Мелірування волосся препаратами &quot;BES&quot; коротке" PRICE0="550" PRICE10="495" PRICESTAFF="385" IDN="535" />
+  <item ID="433" NAME="Мелірування волосся препаратами &quot;BES&quot; середнє" PRICE0="715" PRICE10="643,50" PRICESTAFF="500,50" IDN="536" />
+  <item ID="409" NAME="Сушка волосся коротке" PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="537" />
+  <item ID="411" NAME="Сушка волосся довге" PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="538" />
+  <item ID="434" NAME="Мелірування волосся препаратами &quot;BES&quot; довге" PRICE0="1035" PRICE10="931,50" PRICESTAFF="724,50" IDN="539" />
+  <item ID="451" NAME="Стрижка модельна (комплекс) " PRICE0="355" PRICE10="319,50" PRICESTAFF="248,50" IDN="540" />
+  <item ID="435" NAME="Тонування волосся препаратами &quot;BES&quot; коротке" PRICE0="190" PRICE10="171" PRICESTAFF="133" IDN="541" />
+  <item ID="436" NAME="Тонування волосся препаратами &quot;BES&quot; середнє" PRICE0="290" PRICE10="261" PRICESTAFF="203" IDN="542" />
+  <item ID="437" NAME="Тонування волосся препаратами &quot;BES&quot; довге" PRICE0="410" PRICE10="369" PRICESTAFF="287" IDN="543" />
+  <item ID="438" NAME="Знебарвлення волосся препаратами &quot;BES&quot; корені до 3 см" PRICE0="299" PRICE10="269,10" PRICESTAFF="209,30" IDN="544" />
+  <item ID="440" NAME="Знебарвлення волосся препаратами &quot;BES&quot; середнє" PRICE0="650" PRICE10="585" PRICESTAFF="455" IDN="545" />
+  <item ID="441" NAME="Знебарвлення волосся препаратами &quot;BES&quot; довге" PRICE0="935" PRICE10="841,50" PRICESTAFF="654,50" IDN="546" />
+  <item ID="980" NAME="Епіляція оформлення бровей (жін)" PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="547" />
+  <item ID="1164" NAME="Полірування волосся: додатково до комплексної стрижки коротке (1 год.)" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="1085" />
+  <item ID="981" NAME="Епіляція оформлення бровей (чол)" PRICE0="200" PRICE10="180" PRICESTAFF="140" IDN="549" />
+  <item ID="971" NAME="Епіляція зона під очима" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="550" />
+  <item ID="982" NAME="Епіляція лоб" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="551" />
+  <item ID="983" NAME="Епіляція ніс" PRICE0="75" PRICE10="67,50" PRICESTAFF="52,50" IDN="552" />
+  <item ID="984" NAME="Епіляція вуса" PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="553" />
+  <item ID="972" NAME="Епіляція вуха" PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="554" />
+  <item ID="973" NAME="Епіляція вилиці" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="555" />
+  <item ID="985" NAME="Епіляція щоки" PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="556" />
+  <item ID="986" NAME="Епіляція підборіддя" PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="557" />
+  <item ID="987" NAME="Епіляція шия" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="558" />
+  <item ID="974" NAME="Епіляція зона декольте" PRICE0="99" PRICE10="89,10" PRICESTAFF="69,30" IDN="559" />
+  <item ID="988" NAME="Епіляція лице повністю" PRICE0="450" PRICE10="405" PRICESTAFF="315" IDN="560" />
+  <item ID="989" NAME="Епіляція пахви" PRICE0="200" PRICE10="180" PRICESTAFF="140" IDN="561" />
+  <item ID="991" NAME="Епіляція живіт" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="562" />
+  <item ID="992" NAME="Епіляція спина" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="563" />
+  <item ID="993" NAME="Епіляція руки по лікоть" PRICE0="340" PRICE10="306" PRICESTAFF="238" IDN="564" />
+  <item ID="975" NAME="Епіляція руки вище ліктя" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="565" />
+  <item ID="994" NAME="Епіляція руки повністю" PRICE0="480" PRICE10="432" PRICESTAFF="336" IDN="566" />
+  <item ID="995" NAME="Епіляція ноги до коліна" PRICE0="430" PRICE10="387" PRICESTAFF="301" IDN="567" />
+  <item ID="976" NAME="Епіляція ноги вище коліна" PRICE0="430" PRICE10="387" PRICESTAFF="301" IDN="568" />
+  <item ID="555" NAME="Бразильське вирівнювання волосся довге натуральне" PRICE0="2550" PRICE10="2295" PRICESTAFF="1785" IDN="721" />
+  <item ID="557" NAME="Відновлення волосся коротке" PRICE0="430" PRICE10="387" PRICESTAFF="301" IDN="765" />
+  <item ID="558" NAME="Відновлення волосся середнє" PRICE0="490" PRICE10="441" PRICESTAFF="343" IDN="766" />
+  <item ID="559" NAME="Відновлення волосся довге" PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="767" />
+  <item ID="560" NAME="Глибоке зволоження волосся коротке" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="768" />
+  <item ID="561" NAME="Глибоке зволоження волосся середнє" PRICE0="430" PRICE10="387" PRICESTAFF="301" IDN="769" />
+  <item ID="562" NAME="Глибоке зволоження волосся довге" PRICE0="490" PRICE10="441" PRICESTAFF="343" IDN="770" />
+  <item ID="1165" NAME="Полірування волосся: додатково до комплексної стрижки середнє (1,5 год.)" PRICE0="290" PRICE10="261" PRICESTAFF="203" IDN="1086" />
+  <item ID="821" NAME="Маска калогенова" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="653" />
+  <item ID="831" NAME="Депіляція воском бікіні" PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="666" />
+  <item ID="883" NAME="Депіляція &quot;Шугаринг&quot; або &quot;Перон Рігот&quot; руки по лікоть" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="685" />
+  <item ID="1166" NAME="Полірування волосся: додатково до комплексної стрижки довге (2 год.)" PRICE0="320" PRICE10="288" PRICESTAFF="224" IDN="1087" />
+  <item ID="1167" NAME="Полірування волосся (комплекс) коротке (1 год.)" PRICE0="390" PRICE10="351" PRICESTAFF="273" IDN="1088" />
+  <item ID="1168" NAME="Полірування волосся (комплекс) середнє (1,5 год.)" PRICE0="480" PRICE10="432" PRICESTAFF="336" IDN="1089" />
+  <item ID="1169" NAME="Полірування волосся (комплекс) довге (2 год.)" PRICE0="550" PRICE10="495" PRICESTAFF="385" IDN="1090" />
+  <item ID="860" NAME="Карбоксітерапія (безїн'єкційна) (&quot;Ribeskin&quot; Південна Корея) 50 хв." PRICE0="750" PRICE10="675" PRICESTAFF="525" IDN="1091" />
+  <item ID="861" NAME="Пілінг B-tox (&quot;Ribeskin&quot; Південна Корея) 60 хв." PRICE0="1110" PRICE10="999" PRICESTAFF="777" IDN="1092" />
+  <item ID="862" NAME="Ліфтинг обличчя моментальний Misozium (&quot;Ribeskin&quot; Південна Корея) 50 хв." PRICE0="720" PRICE10="648" PRICESTAFF="504" IDN="1093" />
+  <item ID="863" NAME="Пілінг PRX-T33 (&quot;WiQOmed&quot; Італія) 45 хв." PRICE0="950" PRICE10="855" PRICESTAFF="665" IDN="1094" />
+  <item ID="864" NAME="Пілінг PRX-T33 (&quot;WiQOmed&quot; Італія) 60 хв." PRICE0="1445" PRICE10="1300,50" PRICESTAFF="1011,50" IDN="1095" />
+  <item ID="1100" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="6" />
+  <item ID="1101" NAME="Підкорочування волосся до 2 см або чубчика " PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="7" />
+  <item ID="1102" NAME="Стрижка модельна (комплекс) коротке" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="8" />
+  <item ID="1103" NAME="Стрижка модельна (комплекс) середнє" PRICE0="385" PRICE10="346,50" PRICESTAFF="269,50" IDN="9" />
+  <item ID="1104" NAME="Стрижка модельна (комплекс) довге" PRICE0="440" PRICE10="396" PRICESTAFF="308" IDN="10" />
+  <item ID="1105" NAME="Стрижка модельна " PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="11" />
+  <item ID="1106" NAME="Укладка волосся (комплекс) коротке" PRICE0="155" PRICE10="139,50" PRICESTAFF="108,50" IDN="12" />
+  <item ID="1107" NAME="Укладка волосся (комплекс) середнє" PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="13" />
+  <item ID="1108" NAME="Укладка волосся (комплекс) довге" PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="14" />
+  <item ID="1109" NAME="Сушка волосся коротке" PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="15" />
+  <item ID="1110" NAME="Сушка волосся середнє" PRICE0="145" PRICE10="130,50" PRICESTAFF="101,50" IDN="16" />
+  <item ID="1111" NAME="Сушка волосся довге" PRICE0="199" PRICE10="179,10" PRICESTAFF="139,30" IDN="17" />
+  <item ID="1112" NAME="Використання косметики: (пінка, лак, гель, віск, ..) коротке" PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="18" />
+  <item ID="1113" NAME="Використання косметики: (пінка, лак, гель, віск, ..) середнє" PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="19" />
+  <item ID="1114" NAME="Використання косметики: (пінка, лак, гель, віск, ..) довге" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="20" />
+  <item ID="1115" NAME="Миття волосся (одноразовий рушник) " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="21" />
+  <item ID="1116" NAME="Лікування волосся бальзамом коротке" PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="22" />
+  <item ID="1117" NAME="Лікування волосся бальзамом середнє" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="23" />
+  <item ID="1118" NAME="Лікування волосся бальзамом довге" PRICE0="95" PRICE10="85,50" PRICESTAFF="66,50" IDN="24" />
+  <item ID="1119" NAME="Плетіння однієї коси " PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="25" />
+  <item ID="1120" NAME="Зачіска вечірня з використанням косметики коротке" PRICE0="415" PRICE10="373,50" PRICESTAFF="290,50" IDN="26" />
+  <item ID="1121" NAME="Зачіска вечірня з використанням косметики середнє" PRICE0="635" PRICE10="571,50" PRICESTAFF="444,50" IDN="27" />
+  <item ID="1122" NAME="Зачіска вечірня з використанням косметики довге" PRICE0="785" PRICE10="706,50" PRICESTAFF="549,50" IDN="28" />
+  <item ID="1123" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; коротке" PRICE0="420" PRICE10="378" PRICESTAFF="294" IDN="29" />
+  <item ID="1124" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; середнє" PRICE0="640" PRICE10="576" PRICESTAFF="448" IDN="30" />
+  <item ID="1125" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; довге" PRICE0="860" PRICE10="774" PRICESTAFF="602" IDN="31" />
+  <item ID="1126" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; коротке" PRICE0="530" PRICE10="477" PRICESTAFF="371" IDN="32" />
+  <item ID="1127" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; середнє" PRICE0="690" PRICE10="621" PRICESTAFF="483" IDN="33" />
+  <item ID="1128" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; довге" PRICE0="910" PRICE10="819" PRICESTAFF="637" IDN="34" />
+  <item ID="1129" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; коротке" PRICE0="540" PRICE10="486" PRICESTAFF="378" IDN="35" />
+  <item ID="1130" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; середнє" PRICE0="715" PRICE10="643,50" PRICESTAFF="500,50" IDN="36" />
+  <item ID="1131" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; довге" PRICE0="935" PRICE10="841,50" PRICESTAFF="654,50" IDN="37" />
+  <item ID="1132" NAME="Мелірування волосся препаратами &quot;BES&quot; коротке" PRICE0="440" PRICE10="396" PRICESTAFF="308" IDN="38" />
+  <item ID="1133" NAME="Мелірування волосся препаратами &quot;BES&quot; середнє" PRICE0="570" PRICE10="513" PRICESTAFF="399" IDN="39" />
+  <item ID="1134" NAME="Мелірування волосся препаратами &quot;BES&quot; довге" PRICE0="825" PRICE10="742,50" PRICESTAFF="577,50" IDN="40" />
+  <item ID="1135" NAME="Тонування волосся препаратами &quot;BES&quot; коротке" PRICE0="155" PRICE10="139,50" PRICESTAFF="108,50" IDN="41" />
+  <item ID="1136" NAME="Тонування волосся препаратами &quot;BES&quot; середнє" PRICE0="230" PRICE10="207" PRICESTAFF="161" IDN="42" />
+  <item ID="1137" NAME="Тонування волосся препаратами &quot;BES&quot; довге" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="43" />
+  <item ID="1138" NAME="Знебарвлення волосся препаратами &quot;BES&quot; корені до 3 см" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="44" />
+  <item ID="1139" NAME="Знебарвлення волосся препаратами &quot;BES&quot; коротке" PRICE0="385" PRICE10="346,50" PRICESTAFF="269,50" IDN="45" />
+  <item ID="1140" NAME="Знебарвлення волосся препаратами &quot;BES&quot; середнє" PRICE0="515" PRICE10="463,50" PRICESTAFF="360,50" IDN="46" />
+  <item ID="1141" NAME="Знебарвлення волосся препаратами &quot;BES&quot; довге" PRICE0="750" PRICE10="675" PRICESTAFF="525" IDN="47" />
+  <item ID="1142" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="410" PRICE10="369" PRICESTAFF="287" IDN="48" />
+  <item ID="1143" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="530" PRICE10="477" PRICESTAFF="371" IDN="49" />
+  <item ID="1144" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="705" PRICE10="634,50" PRICESTAFF="493,50" IDN="50" />
+  <item ID="1145" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="660" PRICE10="594" PRICESTAFF="462" IDN="51" />
+  <item ID="1146" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="770" PRICE10="693" PRICESTAFF="539" IDN="52" />
+  <item ID="1147" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="945" PRICE10="850,50" PRICESTAFF="661,50" IDN="53" />
+  <item ID="1148" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="54" />
+  <item ID="1149" NAME="Стрижка модельна " PRICE0="200" PRICE10="180" PRICESTAFF="140" IDN="55" />
+  <item ID="1150" NAME="Стрижка модельна: &quot;Площадка&quot; " PRICE0="295" PRICE10="265,50" PRICESTAFF="206,50" IDN="56" />
+  <item ID="1151" NAME="Стрижка модельна (комплекс) " PRICE0="285" PRICE10="256,50" PRICESTAFF="199,50" IDN="57" />
+  <item ID="1152" NAME="Стрижка модельна: &quot;Площадка&quot; (комплекс) " PRICE0="350" PRICE10="315" PRICESTAFF="245" IDN="58" />
+  <item ID="1153" NAME="Укладка волосся " PRICE0="99" PRICE10="89,10" PRICESTAFF="69,30" IDN="59" />
+  <item ID="1154" NAME="Декоративне вистригання малюнку " PRICE0="199" PRICE10="179,10" PRICESTAFF="139,30" IDN="60" />
+  <item ID="1155" NAME="Стрижка бороди " PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="61" />
+  <item ID="1156" NAME="Стрижка вусів " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="62" />
+  <item ID="1158" NAME="Використання косметики: (пінка, лак, гель, віск, ..) " PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="64" />
+  <item ID="1000" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="65" />
+  <item ID="1001" NAME="Підкорочування волосся до 2 см або чубчика " PRICE0="85" PRICE10="76,50" PRICESTAFF="59,50" IDN="66" />
+  <item ID="1003" NAME="Стрижка модельна (комплекс) середнє" PRICE0="285" PRICE10="256,50" PRICESTAFF="199,50" IDN="68" />
+  <item ID="1004" NAME="Стрижка модельна (комплекс) довге" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="69" />
+  <item ID="1006" NAME="Укладка волосся (комплекс) коротке" PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="71" />
+  <item ID="1007" NAME="Укладка волосся (комплекс) середнє" PRICE0="160" PRICE10="144" PRICESTAFF="112" IDN="72" />
+  <item ID="1008" NAME="Укладка волосся (комплекс) довге" PRICE0="199" PRICE10="179,10" PRICESTAFF="139,30" IDN="73" />
+  <item ID="1009" NAME="Сушка волосся коротке" PRICE0="60" PRICE10="54" PRICESTAFF="42" IDN="74" />
+  <item ID="1011" NAME="Сушка волосся довге" PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="76" />
+  <item ID="1012" NAME="Використання косметики: (пінка, лак, гель, віск, ..) коротке" PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="77" />
+  <item ID="1014" NAME="Використання косметики: (пінка, лак, гель, віск, ..) довге" PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="79" />
+  <item ID="1015" NAME="Миття волосся (одноразовий рушник) " PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="80" />
+  <item ID="1017" NAME="Лікування волосся бальзамом середнє" PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="82" />
+  <item ID="1018" NAME="Лікування волосся бальзамом довге" PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="83" />
+  <item ID="1019" NAME="Плетіння однієї коси " PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="84" />
+  <item ID="1021" NAME="Зачіска вечірня з використанням косметики середнє" PRICE0="440" PRICE10="396" PRICESTAFF="308" IDN="86" />
+  <item ID="1022" NAME="Зачіска вечірня з використанням косметики довге" PRICE0="640" PRICE10="576" PRICESTAFF="448" IDN="87" />
+  <item ID="1024" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; середнє" PRICE0="495" PRICE10="445,50" PRICESTAFF="346,50" IDN="89" />
+  <item ID="1025" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; довге" PRICE0="660" PRICE10="594" PRICESTAFF="462" IDN="90" />
+  <item ID="1028" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; довге" PRICE0="695" PRICE10="625,50" PRICESTAFF="486,50" IDN="93" />
+  <item ID="1029" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; коротке" PRICE0="420" PRICE10="378" PRICESTAFF="294" IDN="94" />
+  <item ID="1031" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; довге" PRICE0="715" PRICE10="643,50" PRICESTAFF="500,50" IDN="96" />
+  <item ID="1033" NAME="Мелірування волосся препаратами &quot;BES&quot; середнє" PRICE0="475" PRICE10="427,50" PRICESTAFF="332,50" IDN="98" />
+  <item ID="1035" NAME="Тонування волосся препаратами &quot;BES&quot; коротке" PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="100" />
+  <item ID="1038" NAME="Знебарвлення волосся препаратами &quot;BES&quot; корені до 3 см" PRICE0="195" PRICE10="175,50" PRICESTAFF="136,50" IDN="103" />
+  <item ID="1039" NAME="Знебарвлення волосся препаратами &quot;BES&quot; коротке" PRICE0="290" PRICE10="261" PRICESTAFF="203" IDN="104" />
+  <item ID="1040" NAME="Знебарвлення волосся препаратами &quot;BES&quot; середнє" PRICE0="415" PRICE10="373,50" PRICESTAFF="290,50" IDN="105" />
+  <item ID="1043" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="415" PRICE10="373,50" PRICESTAFF="290,50" IDN="108" />
+  <item ID="1045" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="485" PRICE10="436,50" PRICESTAFF="339,50" IDN="110" />
+  <item ID="1046" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="650" PRICE10="585" PRICESTAFF="455" IDN="111" />
+  <item ID="1049" NAME="Стрижка модельна " PRICE0="130" PRICE10="117" PRICESTAFF="91" IDN="114" />
+  <item ID="1050" NAME="Стрижка модельна: &quot;Площадка&quot; " PRICE0="175" PRICE10="157,50" PRICESTAFF="122,50" IDN="115" />
+  <item ID="1052" NAME="Стрижка модельна: &quot;Площадка&quot; (комплекс) " PRICE0="270" PRICE10="243" PRICESTAFF="189" IDN="117" />
+  <item ID="1055" NAME="Стрижка бороди " PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="120" />
+  <item ID="1056" NAME="Стрижка вусів " PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="121" />
+  <item ID="1057" NAME="Миття волосся (одноразовий рушник) " PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="122" />
+  <item ID="901" NAME="Підкорочування волосся до 2 см або чубчика " PRICE0="60" PRICE10="54" PRICESTAFF="42" IDN="125" />
+  <item ID="902" NAME="Стрижка модельна (комплекс) коротке" PRICE0="175" PRICE10="157,50" PRICESTAFF="122,50" IDN="126" />
+  <item ID="904" NAME="Стрижка модельна (комплекс) довге" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="128" />
+  <item ID="906" NAME="Укладка волосся (комплекс) коротке" PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="130" />
+  <item ID="908" NAME="Укладка волосся (комплекс) довге" PRICE0="145" PRICE10="130,50" PRICESTAFF="101,50" IDN="132" />
+  <item ID="909" NAME="Сушка волосся коротке" PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="133" />
+  <item ID="912" NAME="Використання косметики: (пінка, лак, гель, віск, ..) коротке" PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="136" />
+  <item ID="913" NAME="Використання косметики: (пінка, лак, гель, віск, ..) середнє" PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="137" />
+  <item ID="915" NAME="Миття волосся (одноразовий рушник) " PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="139" />
+  <item ID="918" NAME="Лікування волосся бальзамом довге" PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="142" />
+  <item ID="919" NAME="Плетіння однієї коси " PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="143" />
+  <item ID="922" NAME="Зачіска вечірня з використанням косметики довге" PRICE0="475" PRICE10="427,50" PRICESTAFF="332,50" IDN="146" />
+  <item ID="924" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; середнє" PRICE0="365" PRICE10="328,50" PRICESTAFF="255,50" IDN="148" />
+  <item ID="929" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; коротке" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="150" />
+  <item ID="931" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; довге" PRICE0="530" PRICE10="477" PRICESTAFF="371" IDN="152" />
+  <item ID="932" NAME="Мелірування волосся препаратами &quot;BES&quot; коротке" PRICE0="265" PRICE10="238,50" PRICESTAFF="185,50" IDN="153" />
+  <item ID="935" NAME="Тонування волосся препаратами &quot;BES&quot; коротке" PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="156" />
+  <item ID="936" NAME="Тонування волосся препаратами &quot;BES&quot; середнє" PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="157" />
+  <item ID="938" NAME="Знебарвлення волосся препаратами &quot;BES&quot; корені до 3 см" PRICE0="145" PRICE10="130,50" PRICESTAFF="101,50" IDN="159" />
+  <item ID="941" NAME="Знебарвлення волосся препаратами &quot;BES&quot; довге" PRICE0="480" PRICE10="432" PRICESTAFF="336" IDN="162" />
+  <item ID="942" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="230" PRICE10="207" PRICESTAFF="161" IDN="163" />
+  <item ID="944" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="420" PRICE10="378" PRICESTAFF="294" IDN="165" />
+  <item ID="947" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="615" PRICE10="553,50" PRICESTAFF="430,50" IDN="168" />
+  <item ID="948" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="75" PRICE10="67,50" PRICESTAFF="52,50" IDN="169" />
+  <item ID="949" NAME="Стрижка модельна " PRICE0="100" PRICE10="90" PRICESTAFF="70" IDN="170" />
+  <item ID="952" NAME="Стрижка модельна: &quot;Площадка&quot; (комплекс) " PRICE0="200" PRICE10="180" PRICESTAFF="140" IDN="173" />
+  <item ID="953" NAME="Укладка волосся " PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="174" />
+  <item ID="955" NAME="Стрижка бороди " PRICE0="40" PRICE10="36" PRICESTAFF="28" IDN="176" />
+  <item ID="957" NAME="Миття волосся (одноразовий рушник) " PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="178" />
+  <item ID="958" NAME="Використання косметики: (пінка, лак, гель, віск, ..) " PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="179" />
+  <item ID="607" NAME="Укладка волосся (комплекс) середнє" PRICE0="95" PRICE10="85,50" PRICESTAFF="66,50" IDN="182" />
+  <item ID="608" NAME="Укладка волосся (комплекс) довге" PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="183" />
+  <item ID="610" NAME="Сушка волосся середнє" PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="185" />
+  <item ID="612" NAME="Плетіння однієї коси " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="187" />
+  <item ID="614" NAME="Зачіска вечірня з використанням косметики коротке" PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="189" />
+  <item ID="617" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; коротке" PRICE0="210" PRICE10="189" PRICESTAFF="147" IDN="192" />
+  <item ID="618" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; середнє" PRICE0="290" PRICE10="261" PRICESTAFF="203" IDN="193" />
+  <item ID="620" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; коротке" PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="195" />
+  <item ID="623" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; коротке" PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="198" />
+  <item ID="624" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; середнє" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="199" />
+  <item ID="627" NAME="Мелірування волосся препаратами &quot;BES&quot; середнє" PRICE0="285" PRICE10="256,50" PRICESTAFF="199,50" IDN="202" />
+  <item ID="628" NAME="Мелірування волосся препаратами &quot;BES&quot; довге" PRICE0="430" PRICE10="387" PRICESTAFF="301" IDN="203" />
+  <item ID="630" NAME="Тонування волосся препаратами &quot;BES&quot; середнє" PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="205" />
+  <item ID="632" NAME="Знебарвлення волосся препаратами &quot;BES&quot; корені до 3 см" PRICE0="115" PRICE10="103,50" PRICESTAFF="80,50" IDN="207" />
+  <item ID="634" NAME="Знебарвлення волосся препаратами &quot;BES&quot; середнє" PRICE0="255" PRICE10="229,50" PRICESTAFF="178,50" IDN="209" />
+  <item ID="635" NAME="Знебарвлення волосся препаратами &quot;BES&quot; довге" PRICE0="295" PRICE10="265,50" PRICESTAFF="206,50" IDN="210" />
+  <item ID="640" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="215" />
+  <item ID="645" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="220" />
+  <item ID="648" NAME="Миття волосся (одноразовий рушник) " PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="223" />
+  <item ID="650" NAME="Ополіскування кондиціонером " PRICE0="20" PRICE10="18" PRICESTAFF="14" IDN="225" />
+  <item ID="651" NAME="Лікування волосся бальзамом коротке" PRICE0="20" PRICE10="18" PRICESTAFF="14" IDN="226" />
+  <item ID="654" NAME="Використання косметики: (пінка, лак, гель, віск, ..) коротке" PRICE0="17" PRICE10="15,30" PRICESTAFF="11,90" IDN="229" />
+  <item ID="656" NAME="Використання косметики: (пінка, лак, гель, віск, ..) довге" PRICE0="33" PRICE10="29,70" PRICESTAFF="23,10" IDN="231" />
+  <item ID="657" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="232" />
+  <item ID="659" NAME="Стрижка модельна " PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="234" />
+  <item ID="661" NAME="Стрижка модельна (комплекс) " PRICE0="125" PRICE10="112,50" PRICESTAFF="87,50" IDN="236" />
+  <item ID="663" NAME="Укладка волосся " PRICE0="40" PRICE10="36" PRICESTAFF="28" IDN="238" />
+  <item ID="665" NAME="Декоративне вистригання малюнку " PRICE0="75" PRICE10="67,50" PRICESTAFF="52,50" IDN="240" />
+  <item ID="667" NAME="Стрижка вусів " PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="242" />
+  <item ID="668" NAME="Миття волосся (одноразовий рушник) " PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="243" />
+  <item ID="2" NAME="Підкорочування волосся до 2 см або чубчика " PRICE0="40" PRICE10="36" PRICESTAFF="28" IDN="246" />
+  <item ID="3" NAME="Стрижка модельна " PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="247" />
+  <item ID="4" NAME="Стрижка модельна (комплекс) коротке" PRICE0="115" PRICE10="103,50" PRICESTAFF="80,50" IDN="248" />
+  <item ID="7" NAME="Укладка волосся (комплекс) коротке" PRICE0="57" PRICE10="51,30" PRICESTAFF="39,90" IDN="251" />
+  <item ID="9" NAME="Укладка волосся (комплекс) довге" PRICE0="95" PRICE10="85,50" PRICESTAFF="66,50" IDN="253" />
+  <item ID="12" NAME="Сушка волосся довге" PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="256" />
+  <item ID="13" NAME="Плетіння однієї коси " PRICE0="53" PRICE10="47,70" PRICESTAFF="37,10" IDN="257" />
+  <item ID="15" NAME="Зачіска вечірня з використанням косметики коротке" PRICE0="130" PRICE10="117" PRICESTAFF="91" IDN="259" />
+  <item ID="18" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; коротке" PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="262" />
+  <item ID="19" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; середнє" PRICE0="230" PRICE10="207" PRICESTAFF="161" IDN="263" />
+  <item ID="22" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; середнє" PRICE0="255" PRICE10="229,50" PRICESTAFF="178,50" IDN="266" />
+  <item ID="24" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; коротке" PRICE0="199" PRICE10="179,10" PRICESTAFF="139,30" IDN="268" />
+  <item ID="27" NAME="Мелірування волосся препаратами &quot;BES&quot; коротке" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="271" />
+  <item ID="28" NAME="Мелірування волосся препаратами &quot;BES&quot; середнє" PRICE0="230" PRICE10="207" PRICESTAFF="161" IDN="272" />
+  <item ID="29" NAME="Мелірування волосся препаратами &quot;BES&quot; довге" PRICE0="340" PRICE10="306" PRICESTAFF="238" IDN="273" />
+  <item ID="32" NAME="Тонування волосся препаратами &quot;BES&quot; довге" PRICE0="130" PRICE10="117" PRICESTAFF="91" IDN="276" />
+  <item ID="34" NAME="Знебарвлення волосся препаратами &quot;BES&quot; коротке" PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="278" />
+  <item ID="41" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="285" />
+  <item ID="47" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="370" PRICE10="333" PRICESTAFF="259" IDN="291" />
+  <item ID="49" NAME="Миття волосся (одноразовий рушник) " PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="293" />
+  <item ID="51" NAME="Ополіскування кондиціонером " PRICE0="17" PRICE10="15,30" PRICESTAFF="11,90" IDN="295" />
+  <item ID="53" NAME="Лікування волосся бальзамом середнє" PRICE0="24" PRICE10="21,60" PRICESTAFF="16,80" IDN="297" />
+  <item ID="56" NAME="Використання косметики: (пінка, лак, гель, віск, ..) середнє" PRICE0="20" PRICE10="18" PRICESTAFF="14" IDN="300" />
+  <item ID="57" NAME="Використання косметики: (пінка, лак, гель, віск, ..) довге" PRICE0="26" PRICE10="23,40" PRICESTAFF="18,20" IDN="301" />
+  <item ID="60" NAME="Стрижка модельна " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="304" />
+  <item ID="62" NAME="Стрижка модельна (комплекс) " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="306" />
+  <item ID="63" NAME="Стрижка модельна: &quot;Площадка&quot; (комплекс) " PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="307" />
+  <item ID="64" NAME="Укладка волосся " PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="308" />
+  <item ID="67" NAME="Стрижка бороди " PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="311" />
+  <item ID="69" NAME="Миття волосся (одноразовий рушник) " PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="313" />
+  <item ID="720" NAME="Підкорочування волосся до 2 см або чубчика " PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="316" />
+  <item ID="700" NAME="Стрижка модельна " PRICE0="60" PRICE10="54" PRICESTAFF="42" IDN="317" />
+  <item ID="721" NAME="Стрижка модельна (комплекс) коротке" PRICE0="95" PRICE10="85,50" PRICESTAFF="66,50" IDN="318" />
+  <item ID="725" NAME="Укладка волосся (комплекс) коротке" PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="321" />
+  <item ID="727" NAME="Укладка волосся (комплекс) довге" PRICE0="82" PRICE10="73,80" PRICESTAFF="57,40" IDN="323" />
+  <item ID="788" NAME="Сушка волосся коротке" PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="324" />
+  <item ID="731" NAME="Плетіння однієї коси " PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="327" />
+  <item ID="779" NAME="Накручування волосся на бігуді " PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="328" />
+  <item ID="704" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; середнє" PRICE0="195" PRICE10="175,50" PRICESTAFF="136,50" IDN="330" />
+  <item ID="707" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; середнє" PRICE0="210" PRICE10="189" PRICESTAFF="147" IDN="333" />
+  <item ID="708" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; довге" PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="334" />
+  <item ID="711" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; довге" PRICE0="320" PRICE10="288" PRICESTAFF="224" IDN="337" />
+  <item ID="756" NAME="Мелірування волосся препаратами &quot;BES&quot; коротке" PRICE0="145" PRICE10="130,50" PRICESTAFF="101,50" IDN="338" />
+  <item ID="757" NAME="Мелірування волосся препаратами &quot;BES&quot; середнє" PRICE0="195" PRICE10="175,50" PRICESTAFF="136,50" IDN="339" />
+  <item ID="760" NAME="Тонування волосся препаратами &quot;BES&quot; середнє" PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="342" />
+  <item ID="761" NAME="Тонування волосся препаратами &quot;BES&quot; довге" PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="343" />
+  <item ID="762" NAME="Знебарвлення волосся препаратами &quot;BES&quot; корені до 3 см" PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="344" />
+  <item ID="765" NAME="Знебарвлення волосся препаратами &quot;BES&quot; довге" PRICE0="270" PRICE10="243" PRICESTAFF="189" IDN="347" />
+  <item ID="728" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="130" PRICE10="117" PRICESTAFF="91" IDN="351" />
+  <item ID="729" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="175" PRICE10="157,50" PRICESTAFF="122,50" IDN="352" />
+  <item ID="780" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="357" />
+  <item ID="781" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="358" />
+  <item ID="772" NAME="Миття волосся (одноразовий рушник) " PRICE0="16" PRICE10="14,40" PRICESTAFF="11,20" IDN="360" />
+  <item ID="718" NAME="Лікування волосся бальзамом коротке" PRICE0="15" PRICE10="13,50" PRICESTAFF="10,50" IDN="363" />
+  <item ID="777" NAME="Лікування волосся бальзамом середнє" PRICE0="20" PRICE10="18" PRICESTAFF="14" IDN="364" />
+  <item ID="775" NAME="Використання косметики: (пінка, лак, гель, віск, ..) середнє" PRICE0="18" PRICE10="16,20" PRICESTAFF="12,60" IDN="367" />
+  <item ID="776" NAME="Використання косметики: (пінка, лак, гель, віск, ..) довге" PRICE0="22" PRICE10="19,80" PRICESTAFF="15,40" IDN="368" />
+  <item ID="734" NAME="Зачіска вечірня з використанням косметики довге" PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="371" />
+  <item ID="782" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="391" />
+  <item ID="783" NAME="Стрижка волосся під насадку " PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="392" />
+  <item ID="701" NAME="Стрижка модельна " PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="393" />
+  <item ID="702" NAME="Стрижка модельна: &quot;Площадка&quot; " PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="394" />
+  <item ID="784" NAME="Стрижка модельна (комплекс) " PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="395" />
+  <item ID="785" NAME="Стрижка модельна: &quot;Площадка&quot; (комплекс) " PRICE0="100" PRICE10="90" PRICESTAFF="70" IDN="396" />
+  <item ID="712" NAME="Укладка волосся " PRICE0="20" PRICE10="18" PRICESTAFF="14" IDN="397" />
+  <item ID="786" NAME="Стрижка волосся машинкою (наголо) " PRICE0="20" PRICE10="18" PRICESTAFF="14" IDN="398" />
+  <item ID="787" NAME="Декоративне вистригання малюнку " PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="399" />
+  <item ID="713" NAME="Стрижка бороди " PRICE0="17" PRICE10="15,30" PRICESTAFF="11,90" IDN="400" />
+  <item ID="714" NAME="Стрижка вусів " PRICE0="15" PRICE10="13,50" PRICESTAFF="10,50" IDN="401" />
+  <item ID="715" NAME="Миття волосся (одноразовий рушник) " PRICE0="16" PRICE10="14,40" PRICESTAFF="11,20" IDN="402" />
+  <item ID="716" NAME="Використання косметики: (пінка, лак, гель, віск, ..) " PRICE0="12" PRICE10="10,80" PRICESTAFF="8,40" IDN="403" />
+  <item ID="996" NAME="Епіляція ноги повністю" PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="569" />
+  <item ID="997" NAME="Епіляція бікіні" PRICE0="450" PRICE10="405" PRICESTAFF="315" IDN="570" />
+  <item ID="998" NAME="Епіляція глибоке бікіні" PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="571" />
+  <item ID="511" NAME="Фарбування бровей або вій " PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="572" />
+  <item ID="533" NAME="Прокол мочки вуха 1 прокол" PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="573" />
+  <item ID="534" NAME="Сережки 1 шт" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="574" />
+  <item ID="75" NAME="Африканське плетіння 1 довжина (каре)" PRICE0="1550" PRICE10="1395" PRICESTAFF="1085" IDN="575" />
+  <item ID="76" NAME="Африканське плетіння 2 довжина (плечі)" PRICE0="1850" PRICE10="1665" PRICESTAFF="1295" IDN="576" />
+  <item ID="77" NAME="Африканське плетіння 3 довжина (верхня частина лопатки)" PRICE0="2100" PRICE10="1890" PRICESTAFF="1470" IDN="577" />
+  <item ID="78" NAME="Африканське плетіння 4 довжина (нижня частина лопатки)" PRICE0="2400" PRICE10="2160" PRICESTAFF="1680" IDN="578" />
+  <item ID="79" NAME="Африканське плетіння 5 довжина (до поясу)" PRICE0="2900" PRICE10="2610" PRICESTAFF="2030" IDN="579" />
+  <item ID="80" NAME="Розплетіння косичок " PRICE0="600" PRICE10="540" PRICESTAFF="420" IDN="580" />
+  <item ID="81" NAME="Корекція косичок 1 довжина (каре)" PRICE0="900" PRICE10="810" PRICESTAFF="630" IDN="581" />
+  <item ID="82" NAME="Корекція косичок 2 довжина (плечі)" PRICE0="1000" PRICE10="900" PRICESTAFF="700" IDN="582" />
+  <item ID="83" NAME="Корекція косичок 3 довжина (верхня частина лопатки)" PRICE0="1200" PRICE10="1080" PRICESTAFF="840" IDN="583" />
+  <item ID="84" NAME="Корекція косичок 4 довжина (нижня частина лопатки)" PRICE0="1350" PRICE10="1215" PRICESTAFF="945" IDN="584" />
+  <item ID="85" NAME="Корекція косичок 5 довжина (до поясу)" PRICE0="1700" PRICE10="1530" PRICESTAFF="1190" IDN="585" />
+  <item ID="86" NAME="Нарощування волосся (довжина 45 см) 1 капсула" PRICE0="38" PRICE10="34,20" PRICESTAFF="26,60" IDN="586" />
+  <item ID="87" NAME="Нарощування волосся (довжина 45 см) 10 капсул" PRICE0="380" PRICE10="342" PRICESTAFF="266" IDN="587" />
+  <item ID="88" NAME="Нарощування волосся (довжина 45 см) 50 капсул" PRICE0="1500" PRICE10="1350" PRICESTAFF="1050" IDN="588" />
+  <item ID="89" NAME="Нарощування волосся (довжина 45 см) 150 капсул" PRICE0="3700" PRICE10="3330" PRICESTAFF="2590" IDN="589" />
+  <item ID="90" NAME="Нарощування волосся (довжина 54 см) 1 капсула" PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="590" />
+  <item ID="91" NAME="Нарощування волосся (довжина 54 см) 10 капсул" PRICE0="450" PRICE10="405" PRICESTAFF="315" IDN="591" />
+  <item ID="92" NAME="Нарощування волосся (довжина 54 см) 50 капсул" PRICE0="1800" PRICE10="1620" PRICESTAFF="1260" IDN="592" />
+  <item ID="93" NAME="Нарощування волосся (довжина 54 см) 150 капсул" PRICE0="4350" PRICE10="3915" PRICESTAFF="3045" IDN="593" />
+  <item ID="94" NAME="Нарощування волосся (довжина 65 см) 1 капсула" PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="594" />
+  <item ID="95" NAME="Нарощування волосся (довжина 65 см) 10 капсул" PRICE0="500" PRICE10="450" PRICESTAFF="350" IDN="595" />
+  <item ID="96" NAME="Нарощування волосся (довжина 65 см) 50 капсул" PRICE0="2100" PRICE10="1890" PRICESTAFF="1470" IDN="596" />
+  <item ID="97" NAME="Нарощування волосся (довжина 65 см) 150 капсул" PRICE0="5000" PRICE10="4500" PRICESTAFF="3500" IDN="597" />
+  <item ID="675" NAME="Тимчасове татуювання " PRICE0="299" PRICE10="269,10" PRICESTAFF="209,30" IDN="598" />
+  <item ID="676" NAME="Татуювання (ТАТТОО)  1 кв.см" PRICE0="59" PRICE10="53,10" PRICESTAFF="41,30" IDN="599" />
+  <item ID="677" NAME="Знеболювання " PRICE0="250" PRICE10="225" PRICESTAFF="175" IDN="600" />
+  <item ID="678" NAME="Перманентний макіяж бровей (татуаж) " PRICE0="1999" PRICE10="1799,10" PRICESTAFF="1399,30" IDN="601" />
+  <item ID="680" NAME="Корекція татуажу бровей " PRICE0="899" PRICE10="809,10" PRICESTAFF="629,30" IDN="604" />
+  <item ID="681" NAME="Перманентний макіяж вій (татуаж) " PRICE0="1999" PRICE10="1799,10" PRICESTAFF="1399,30" IDN="605" />
+  <item ID="682" NAME="Корекція татуажу вій " PRICE0="899" PRICE10="809,10" PRICESTAFF="629,30" IDN="606" />
+  <item ID="683" NAME="Перманентний макіяж губ (татуаж) " PRICE0="2199" PRICE10="1979,10" PRICESTAFF="1539,30" IDN="607" />
+  <item ID="684" NAME="Корекція губ " PRICE0="999" PRICE10="899,10" PRICESTAFF="699,30" IDN="610" />
+  <item ID="685" NAME="Родимка " PRICE0="799" PRICE10="719,10" PRICESTAFF="559,30" IDN="611" />
+  <item ID="686" NAME="Родимка додаткова 1 шт" PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="612" />
+  <item ID="270" NAME="Пірсинг пупка без сережки" PRICE0="399" PRICE10="359,10" PRICESTAFF="279,30" IDN="613" />
+  <item ID="271" NAME="Пірсинг пупка з сережкою" PRICE0="450" PRICE10="405" PRICESTAFF="315" IDN="614" />
+  <item ID="272" NAME="Пірсинг мочки вуха медичною голкою 1 прокол" PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="615" />
+  <item ID="275" NAME="Пірсинг носа або брови з сережкою" PRICE0="399" PRICE10="359,10" PRICESTAFF="279,30" IDN="618" />
+  <item ID="276" NAME="Пірсинг язика з сережкою" PRICE0="450" PRICE10="405" PRICESTAFF="315" IDN="619" />
+  <item ID="277" NAME="Пірсинг губи з сережкою" PRICE0="450" PRICE10="405" PRICESTAFF="315" IDN="620" />
+  <item ID="397" NAME="Макіяж (весільний) " PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="622" />
+  <item ID="399" NAME="Макіяж (з аксесуарами) " PRICE0="650" PRICE10="585" PRICESTAFF="455" IDN="623" />
+  <item ID="512" NAME="Оформлення бровей " PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="624" />
+  <item ID="513" NAME="Корекція форми бровей " PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="625" />
+  <item ID="281" NAME="Нарощування вій пучкове (до 30 шт.)" PRICE0="440" PRICE10="396" PRICESTAFF="308" IDN="626" />
+  <item ID="282" NAME="Нарощування вій легкий об`єм (до 50 шт.)" PRICE0="570" PRICE10="513" PRICESTAFF="399" IDN="627" />
+  <item ID="284" NAME="Корекція вій 1 шт" PRICE0="20" PRICE10="18" PRICESTAFF="14" IDN="629" />
+  <item ID="285" NAME="Зняття вій " PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="630" />
+  <item ID="800" NAME="Очищення шкіри обличчя " PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="631" />
+  <item ID="801" NAME="Чистка обличчя (механічна) " PRICE0="210" PRICE10="189" PRICESTAFF="147" IDN="632" />
+  <item ID="802" NAME="Чистка обличчя (вакуумна) " PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="633" />
+  <item ID="803" NAME="Чистка обличчя (ультразвукова) " PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="634" />
+  <item ID="804" NAME="Чистка зони декольте " PRICE0="160" PRICE10="144" PRICESTAFF="112" IDN="635" />
+  <item ID="805" NAME="Чистка спини " PRICE0="270" PRICE10="243" PRICESTAFF="189" IDN="636" />
+  <item ID="806" NAME="Д`арсенваль " PRICE0="60" PRICE10="54" PRICESTAFF="42" IDN="637" />
+  <item ID="807" NAME="Видалення жировиків 1 шт" PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="638" />
+  <item ID="808" NAME="Масаж лиця по Жаке 10 хв." PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="639" />
+  <item ID="809" NAME="Масаж лиця &quot;Пластичний&quot; 20 хв." PRICE0="199" PRICE10="179,10" PRICESTAFF="139,30" IDN="640" />
+  <item ID="810" NAME="Масаж лиця &quot;Класичний&quot; 30 хв." PRICE0="299" PRICE10="269,10" PRICESTAFF="209,30" IDN="641" />
+  <item ID="875" NAME="Масаж лиця &quot;Тоффа&quot; 90 хв." PRICE0="699" PRICE10="629,10" PRICESTAFF="489,30" IDN="642" />
+  <item ID="811" NAME="Масаж воротнікової зони " PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="643" />
+  <item ID="812" NAME="Масаж волосяної частини голови " PRICE0="99" PRICE10="89,10" PRICESTAFF="69,30" IDN="644" />
+  <item ID="813" NAME="Маска протизапальна" PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="645" />
+  <item ID="814" NAME="Маска зволожуюча або живильна" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="646" />
+  <item ID="815" NAME="Маска депігмінтуюча" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="647" />
+  <item ID="816" NAME="Маска відновлююча" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="648" />
+  <item ID="817" NAME="Маска пластифікуюча (альгінат)" PRICE0="290" PRICE10="261" PRICESTAFF="203" IDN="649" />
+  <item ID="818" NAME="Маска інтенсивний ліфтінг" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="650" />
+  <item ID="819" NAME="Маска протикуперозна (лікувальна)" PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="651" />
+  <item ID="820" NAME="Маска активний концентрант" PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="652" />
+  <item ID="822" NAME="Маска під очі " PRICE0="99" PRICE10="89,10" PRICESTAFF="69,30" IDN="654" />
+  <item ID="823" NAME="Пілінг обличчя (ультразвуковий, ексфоліант) " PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="655" />
+  <item ID="824" NAME="Пілінг обличчя (механічний) " PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="656" />
+  <item ID="825" NAME="Пілінг обличчя (хімічний поверхневий) " PRICE0="760" PRICE10="684" PRICESTAFF="532" IDN="657" />
+  <item ID="826" NAME="Мікродемобразія " PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="659" />
+  <item ID="827" NAME="Ультрафонорез обличчя " PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="660" />
+  <item ID="828" NAME="Гальванічний ліфтинг " PRICE0="210" PRICE10="189" PRICESTAFF="147" IDN="661" />
+  <item ID="829" NAME="Депіляція воском ноги до коліна" PRICE0="210" PRICE10="189" PRICESTAFF="147" IDN="662" />
+  <item ID="859" NAME="Депіляція воском ноги вище коліна" PRICE0="210" PRICE10="189" PRICESTAFF="147" IDN="663" />
+  <item ID="830" NAME="Депіляція воском ноги повністю" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="664" />
+  <item ID="877" NAME="Депіляція воском сідниці" PRICE0="135" PRICE10="121,50" PRICESTAFF="94,50" IDN="665" />
+  <item ID="832" NAME="Депіляція воском глибоке бікіні" PRICE0="380" PRICE10="342" PRICESTAFF="266" IDN="667" />
+  <item ID="833" NAME="Депіляція воском бікіні дизайн" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="668" />
+  <item ID="834" NAME="Депіляція воском руки по лікоть" PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="669" />
+  <item ID="874" NAME="Депіляція воском руки вище ліктя" PRICE0="120" PRICE10="108" PRICESTAFF="84" IDN="670" />
+  <item ID="835" NAME="Депіляція воском руки повністю" PRICE0="195" PRICE10="175,50" PRICESTAFF="136,50" IDN="671" />
+  <item ID="878" NAME="Депіляція воском доріжка на животі або рідке волосся на грудях" PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="672" />
+  <item ID="836" NAME="Депіляція воском живіт" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="673" />
+  <item ID="837" NAME="Депіляція воском спина" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="674" />
+  <item ID="838" NAME="Депіляція воском плечі" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="675" />
+  <item ID="839" NAME="Депіляція воском шия" PRICE0="135" PRICE10="121,50" PRICESTAFF="94,50" IDN="676" />
+  <item ID="840" NAME="Депіляція воском пахви" PRICE0="135" PRICE10="121,50" PRICESTAFF="94,50" IDN="677" />
+  <item ID="841" NAME="Депіляція воском ніс або вуха, або брови, або вусики, або підборіддя" PRICE0="95" PRICE10="85,50" PRICESTAFF="66,50" IDN="678" />
+  <item ID="842" NAME="Депіляція воском вилиці" PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="679" />
+  <item ID="879" NAME="Депіляція &quot;Шугаринг&quot; або &quot;Перон Рігот&quot; ноги до коліна" PRICE0="305" PRICE10="274,50" PRICESTAFF="213,50" IDN="680" />
+  <item ID="843" NAME="Депіляція &quot;Шугаринг&quot; або &quot;Перон Рігот&quot; ноги вище коліна" PRICE0="305" PRICE10="274,50" PRICESTAFF="213,50" IDN="681" />
+  <item ID="880" NAME="Депіляція &quot;Шугаринг&quot; або &quot;Перон Рігот&quot; ноги повністю" PRICE0="460" PRICE10="414" PRICESTAFF="322" IDN="682" />
+  <item ID="881" NAME="Депіляція &quot;Шугаринг&quot; або &quot;Перон Рігот&quot; бікіні" PRICE0="430" PRICE10="387" PRICESTAFF="301" IDN="683" />
+  <item ID="882" NAME="Депіляція &quot;Шугаринг&quot; або &quot;Перон Рігот&quot; глибоке бікіні" PRICE0="495" PRICE10="445,50" PRICESTAFF="346,50" IDN="684" />
+  <item ID="884" NAME="Депіляція &quot;Шугаринг&quot; або &quot;Перон Рігот&quot; руки повністю" PRICE0="265" PRICE10="238,50" PRICESTAFF="185,50" IDN="686" />
+  <item ID="844" NAME="Корекція фігури (лімфодренаж) ноги + сідниці" PRICE0="350" PRICE10="315" PRICESTAFF="245" IDN="687" />
+  <item ID="845" NAME="Корекція фігури (лімфодренаж) живіт + спина" PRICE0="350" PRICE10="315" PRICESTAFF="245" IDN="688" />
+  <item ID="846" NAME="Корекція фігури (лімфодренаж) все тіло" PRICE0="550" PRICE10="495" PRICESTAFF="385" IDN="689" />
+  <item ID="847" NAME="Обгортування тіла (гелеве сухе або &quot;Кріослім&quot;) розмір одягу 36-40 (S/XS)" PRICE0="725" PRICE10="652,50" PRICESTAFF="507,50" IDN="690" />
+  <item ID="848" NAME="Обгортування тіла (гелеве сухе або &quot;Кріослім&quot;) розмір одягу 42-46 (L/XL)" PRICE0="780" PRICE10="702" PRICESTAFF="546" IDN="691" />
+  <item ID="849" NAME="Обгортування тіла (гелеве сухе або &quot;Кріослім&quot;) розмір одягу 48-52 (XXL)" PRICE0="840" PRICE10="756" PRICESTAFF="588" IDN="692" />
+  <item ID="850" NAME="Обгортування тіла (&quot;Віскі&quot; або &quot;Парафанго&quot;) розмір одягу 36-40 (S/XS)" PRICE0="770" PRICE10="693" PRICESTAFF="539" IDN="693" />
+  <item ID="851" NAME="Обгортування тіла (&quot;Віскі&quot; або &quot;Парафанго&quot;) розмір одягу 42-46 (L/XL)" PRICE0="825" PRICE10="742,50" PRICESTAFF="577,50" IDN="694" />
+  <item ID="852" NAME="Обгортування тіла (&quot;Віскі&quot; або &quot;Парафанго&quot;) розмір одягу 48-52 (XXL)" PRICE0="899" PRICE10="809,10" PRICESTAFF="629,30" IDN="695" />
+  <item ID="853" NAME="Пілінг тіла (браш) " PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="696" />
+  <item ID="854" NAME="Пілінг тіла (ультразвуковий) ноги + сідниці" PRICE0="155" PRICE10="139,50" PRICESTAFF="108,50" IDN="697" />
+  <item ID="855" NAME="Пілінг тіла (ультразвуковий) живіт + спина" PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="698" />
+  <item ID="856" NAME="Пілінг тіла (ультразвуковий) все тіло" PRICE0="255" PRICE10="229,50" PRICESTAFF="178,50" IDN="699" />
+  <item ID="857" NAME="Догляд за руками (парафінова маска) " PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="700" />
+  <item ID="858" NAME="Догляд за ногами (парафінова маска) " PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="701" />
+  <item ID="550" NAME="Бразильське вирівнювання волосся чубчика" PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="716" />
+  <item ID="551" NAME="Бразильське вирівнювання волосся коротке натуральне" PRICE0="1199" PRICE10="1079,10" PRICESTAFF="839,30" IDN="717" />
+  <item ID="552" NAME="Бразильське вирівнювання волосся коротке фарбоване або кучеряве" PRICE0="1550" PRICE10="1395" PRICESTAFF="1085" IDN="718" />
+  <item ID="553" NAME="Бразильське вирівнювання волосся середнє натуральне" PRICE0="1699" PRICE10="1529,10" PRICESTAFF="1189,30" IDN="719" />
+  <item ID="554" NAME="Бразильське вирівнювання волосся середнє фарбоване або кучеряве" PRICE0="2299" PRICE10="2069,10" PRICESTAFF="1609,30" IDN="720" />
+  <item ID="556" NAME="Бразильське вирівнювання волосся довге фарбоване або кучеряве" PRICE0="3099" PRICE10="2789,10" PRICESTAFF="2169,30" IDN="722" />
+  <item ID="1157" NAME="Миття волосся (одноразовий рушник) " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="63" />
+  <item ID="1002" NAME="Стрижка модельна (комплекс) коротке" PRICE0="235" PRICE10="211,50" PRICESTAFF="164,50" IDN="67" />
+  <item ID="1005" NAME="Стрижка модельна " PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="70" />
+  <item ID="1010" NAME="Сушка волосся середнє" PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="75" />
+  <item ID="1013" NAME="Використання косметики: (пінка, лак, гель, віск, ..) середнє" PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="78" />
+  <item ID="1016" NAME="Лікування волосся бальзамом коротке" PRICE0="40" PRICE10="36" PRICESTAFF="28" IDN="81" />
+  <item ID="1020" NAME="Зачіска вечірня з використанням косметики коротке" PRICE0="295" PRICE10="265,50" PRICESTAFF="206,50" IDN="85" />
+  <item ID="1023" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; коротке" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="88" />
+  <item ID="1027" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; середнє" PRICE0="540" PRICE10="486" PRICESTAFF="378" IDN="92" />
+  <item ID="1032" NAME="Мелірування волосся препаратами &quot;BES&quot; коротке" PRICE0="350" PRICE10="315" PRICESTAFF="245" IDN="97" />
+  <item ID="1036" NAME="Тонування волосся препаратами &quot;BES&quot; середнє" PRICE0="185" PRICE10="166,50" PRICESTAFF="129,50" IDN="101" />
+  <item ID="1042" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="315" PRICE10="283,50" PRICESTAFF="220,50" IDN="107" />
+  <item ID="1048" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="113" />
+  <item ID="1053" NAME="Укладка волосся " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="118" />
+  <item ID="1058" NAME="Використання косметики: (пінка, лак, гель, віск, ..) " PRICE0="40" PRICE10="36" PRICESTAFF="28" IDN="123" />
+  <item ID="905" NAME="Стрижка модельна " PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="129" />
+  <item ID="911" NAME="Сушка волосся довге" PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="135" />
+  <item ID="916" NAME="Лікування волосся бальзамом коротке" PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="140" />
+  <item ID="921" NAME="Зачіска вечірня з використанням косметики середнє" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="145" />
+  <item ID="925" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; довге" PRICE0="485" PRICE10="436,50" PRICESTAFF="339,50" IDN="149" />
+  <item ID="934" NAME="Мелірування волосся препаратами &quot;BES&quot; довге" PRICE0="495" PRICE10="445,50" PRICESTAFF="346,50" IDN="155" />
+  <item ID="939" NAME="Знебарвлення волосся препаратами &quot;BES&quot; коротке" PRICE0="215" PRICE10="193,50" PRICESTAFF="150,50" IDN="160" />
+  <item ID="945" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="365" PRICE10="328,50" PRICESTAFF="255,50" IDN="166" />
+  <item ID="951" NAME="Стрижка модельна (комплекс) " PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="172" />
+  <item ID="956" NAME="Стрижка вусів " PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="177" />
+  <item ID="606" NAME="Укладка волосся (комплекс) коротке" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="181" />
+  <item ID="611" NAME="Сушка волосся довге" PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="186" />
+  <item ID="615" NAME="Зачіска вечірня з використанням косметики середнє" PRICE0="285" PRICE10="256,50" PRICESTAFF="199,50" IDN="190" />
+  <item ID="621" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; середнє" PRICE0="320" PRICE10="288" PRICESTAFF="224" IDN="196" />
+  <item ID="626" NAME="Мелірування волосся препаратами &quot;BES&quot; коротке" PRICE0="215" PRICE10="193,50" PRICESTAFF="150,50" IDN="201" />
+  <item ID="631" NAME="Тонування волосся препаратами &quot;BES&quot; довге" PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="206" />
+  <item ID="641" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="380" PRICE10="342" PRICESTAFF="266" IDN="216" />
+  <item ID="647" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="590" PRICE10="531" PRICESTAFF="413" IDN="222" />
+  <item ID="653" NAME="Лікування волосся бальзамом довге" PRICE0="38" PRICE10="34,20" PRICESTAFF="26,60" IDN="228" />
+  <item ID="658" NAME="Стрижка волосся під насадку " PRICE0="520" PRICE10="468" PRICESTAFF="364" IDN="233" />
+  <item ID="664" NAME="Стрижка волосся машинкою (наголо) " PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="239" />
+  <item ID="669" NAME="Використання косметики: (пінка, лак, гель, віск, ..) " PRICE0="22" PRICE10="19,80" PRICESTAFF="15,40" IDN="244" />
+  <item ID="6" NAME="Стрижка модельна (комплекс) довге" PRICE0="155" PRICE10="139,50" PRICESTAFF="108,50" IDN="250" />
+  <item ID="10" NAME="Сушка волосся коротке" PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="254" />
+  <item ID="16" NAME="Зачіска вечірня з використанням косметики середнє" PRICE0="230" PRICE10="207" PRICESTAFF="161" IDN="260" />
+  <item ID="21" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; коротке" PRICE0="199" PRICE10="179,10" PRICESTAFF="139,30" IDN="265" />
+  <item ID="25" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; середнє" PRICE0="265" PRICE10="238,50" PRICESTAFF="185,50" IDN="269" />
+  <item ID="31" NAME="Тонування волосся препаратами &quot;BES&quot; середнє" PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="275" />
+  <item ID="35" NAME="Знебарвлення волосся препаратами &quot;BES&quot; середнє" PRICE0="205" PRICE10="184,50" PRICESTAFF="143,50" IDN="279" />
+  <item ID="40" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="284" />
+  <item ID="46" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="265" PRICE10="238,50" PRICESTAFF="185,50" IDN="290" />
+  <item ID="50" NAME="Використання одноразової хустинки  " PRICE0="7" PRICE10="6,30" PRICESTAFF="4,90" IDN="294" />
+  <item ID="54" NAME="Лікування волосся бальзамом довге" PRICE0="33" PRICE10="29,70" PRICESTAFF="23,10" IDN="298" />
+  <item ID="59" NAME="Стрижка волосся під насадку " PRICE0="40" PRICE10="36" PRICESTAFF="28" IDN="303" />
+  <item ID="66" NAME="Декоративне вистригання малюнку " PRICE0="60" PRICE10="54" PRICESTAFF="42" IDN="310" />
+  <item ID="70" NAME="Використання косметики: (пінка, лак, гель, віск, ..) " PRICE0="17" PRICE10="15,30" PRICESTAFF="11,90" IDN="314" />
+  <item ID="723" NAME="Стрижка модельна (комплекс) довге" PRICE0="125" PRICE10="112,50" PRICESTAFF="87,50" IDN="320" />
+  <item ID="790" NAME="Сушка волосся довге" PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="326" />
+  <item ID="601" NAME="Підкорочування волосся до 2 см або чубчика " PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="1" />
+  <item ID="602" NAME="Стрижка модельна " PRICE0="90" PRICE10="81" PRICESTAFF="63" IDN="2" />
+  <item ID="603" NAME="Стрижка модельна (комплекс) коротке" PRICE0="145" PRICE10="130,50" PRICESTAFF="101,50" IDN="3" />
+  <item ID="604" NAME="Стрижка модельна (комплекс) середнє" PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="4" />
+  <item ID="605" NAME="Стрижка модельна (комплекс) довге" PRICE0="195" PRICE10="175,50" PRICESTAFF="136,50" IDN="5" />
+  <item ID="1026" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; коротке" PRICE0="420" PRICE10="378" PRICESTAFF="294" IDN="91" />
+  <item ID="1030" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; середнє" PRICE0="550" PRICE10="495" PRICESTAFF="385" IDN="95" />
+  <item ID="1034" NAME="Мелірування волосся препаратами &quot;BES&quot; довге" PRICE0="670" PRICE10="603" PRICESTAFF="469" IDN="99" />
+  <item ID="1037" NAME="Тонування волосся препаратами &quot;BES&quot; довге" PRICE0="265" PRICE10="238,50" PRICESTAFF="185,50" IDN="102" />
+  <item ID="1041" NAME="Знебарвлення волосся препаратами &quot;BES&quot; довге" PRICE0="645" PRICE10="580,50" PRICESTAFF="451,50" IDN="106" />
+  <item ID="1044" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="565" PRICE10="508,50" PRICESTAFF="395,50" IDN="109" />
+  <item ID="1047" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="825" PRICE10="742,50" PRICESTAFF="577,50" IDN="112" />
+  <item ID="1051" NAME="Стрижка модельна (комплекс) " PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="116" />
+  <item ID="1054" NAME="Декоративне вистригання малюнку " PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="119" />
+  <item ID="900" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="75" PRICE10="67,50" PRICESTAFF="52,50" IDN="124" />
+  <item ID="903" NAME="Стрижка модельна (комплекс) середнє" PRICE0="210" PRICE10="189" PRICESTAFF="147" IDN="127" />
+  <item ID="907" NAME="Укладка волосся (комплекс) середнє" PRICE0="115" PRICE10="103,50" PRICESTAFF="80,50" IDN="131" />
+  <item ID="910" NAME="Сушка волосся середнє" PRICE0="75" PRICE10="67,50" PRICESTAFF="52,50" IDN="134" />
+  <item ID="914" NAME="Використання косметики: (пінка, лак, гель, віск, ..) довге" PRICE0="40" PRICE10="36" PRICESTAFF="28" IDN="138" />
+  <item ID="917" NAME="Лікування волосся бальзамом середнє" PRICE0="40" PRICE10="36" PRICESTAFF="28" IDN="141" />
+  <item ID="920" NAME="Зачіска вечірня з використанням косметики коротке" PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="144" />
+  <item ID="923" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; коротке" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="147" />
+  <item ID="930" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; середнє" PRICE0="405" PRICE10="364,50" PRICESTAFF="283,50" IDN="151" />
+  <item ID="933" NAME="Мелірування волосся препаратами &quot;BES&quot; середнє" PRICE0="350" PRICE10="315" PRICESTAFF="245" IDN="154" />
+  <item ID="937" NAME="Тонування волосся препаратами &quot;BES&quot; довге" PRICE0="199" PRICE10="179,10" PRICESTAFF="139,30" IDN="158" />
+  <item ID="940" NAME="Знебарвлення волосся препаратами &quot;BES&quot; середнє" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="161" />
+  <item ID="943" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="164" />
+  <item ID="946" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="485" PRICE10="436,50" PRICESTAFF="339,50" IDN="167" />
+  <item ID="950" NAME="Стрижка модельна: &quot;Площадка&quot; " PRICE0="130" PRICE10="117" PRICESTAFF="91" IDN="171" />
+  <item ID="954" NAME="Декоративне вистригання малюнку " PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="175" />
+  <item ID="600" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="65" PRICE10="58,50" PRICESTAFF="45,50" IDN="180" />
+  <item ID="609" NAME="Сушка волосся коротке" PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="184" />
+  <item ID="613" NAME="Накручування волосся на бігуді " PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="188" />
+  <item ID="616" NAME="Зачіска вечірня з використанням косметики довге" PRICE0="385" PRICE10="346,50" PRICESTAFF="269,50" IDN="191" />
+  <item ID="619" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; довге" PRICE0="399" PRICE10="359,10" PRICESTAFF="279,30" IDN="194" />
+  <item ID="622" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; довге" PRICE0="415" PRICE10="373,50" PRICESTAFF="290,50" IDN="197" />
+  <item ID="625" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; довге" PRICE0="480" PRICE10="432" PRICESTAFF="336" IDN="200" />
+  <item ID="629" NAME="Тонування волосся препаратами &quot;BES&quot; коротке" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="204" />
+  <item ID="633" NAME="Знебарвлення волосся препаратами &quot;BES&quot; коротке" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="208" />
+  <item ID="636" NAME="Фарбування брів хною " PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="980" />
+  <item ID="639" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="210" PRICE10="189" PRICESTAFF="147" IDN="214" />
+  <item ID="687" NAME="Перманентний макіяж ареоли грудей (татуаж) " PRICE0="2799" PRICE10="2519,10" PRICESTAFF="1959,30" IDN="981" />
+  <item ID="646" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="455" PRICE10="409,50" PRICESTAFF="318,50" IDN="221" />
+  <item ID="649" NAME="Використання одноразової хустинки  " PRICE0="10" PRICE10="9" PRICESTAFF="7" IDN="224" />
+  <item ID="652" NAME="Лікування волосся бальзамом середнє" PRICE0="28" PRICE10="25,20" PRICESTAFF="19,60" IDN="227" />
+  <item ID="655" NAME="Використання косметики: (пінка, лак, гель, віск, ..) середнє" PRICE0="24" PRICE10="21,60" PRICESTAFF="16,80" IDN="230" />
+  <item ID="660" NAME="Стрижка модельна: &quot;Площадка&quot; " PRICE0="105" PRICE10="94,50" PRICESTAFF="73,50" IDN="235" />
+  <item ID="662" NAME="Стрижка модельна: &quot;Площадка&quot; (комплекс) " PRICE0="150" PRICE10="135" PRICESTAFF="105" IDN="237" />
+  <item ID="666" NAME="Стрижка бороди " PRICE0="30" PRICE10="27" PRICESTAFF="21" IDN="241" />
+  <item ID="1" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="245" />
+  <item ID="5" NAME="Стрижка модельна (комплекс) середнє" PRICE0="130" PRICE10="117" PRICESTAFF="91" IDN="249" />
+  <item ID="8" NAME="Укладка волосся (комплекс) середнє" PRICE0="70" PRICE10="63" PRICESTAFF="49" IDN="252" />
+  <item ID="11" NAME="Сушка волосся середнє" PRICE0="45" PRICE10="40,50" PRICESTAFF="31,50" IDN="255" />
+  <item ID="14" NAME="Накручування волосся на бігуді " PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="258" />
+  <item ID="17" NAME="Зачіска вечірня з використанням косметики довге" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="261" />
+  <item ID="20" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; довге" PRICE0="320" PRICE10="288" PRICESTAFF="224" IDN="264" />
+  <item ID="23" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; довге" PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="267" />
+  <item ID="26" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; довге" PRICE0="385" PRICE10="346,50" PRICESTAFF="269,50" IDN="270" />
+  <item ID="30" NAME="Тонування волосся препаратами &quot;BES&quot; коротке" PRICE0="60" PRICE10="54" PRICESTAFF="42" IDN="274" />
+  <item ID="33" NAME="Знебарвлення волосся препаратами &quot;BES&quot; корені до 3 см" PRICE0="95" PRICE10="85,50" PRICESTAFF="66,50" IDN="277" />
+  <item ID="36" NAME="Знебарвлення волосся препаратами &quot;BES&quot; довге" PRICE0="320" PRICE10="288" PRICESTAFF="224" IDN="280" />
+  <item ID="688" NAME="Корекція татуажу ареоли грудей " PRICE0="1399" PRICE10="1259,10" PRICESTAFF="979,30" IDN="982" />
+  <item ID="42" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="305" PRICE10="274,50" PRICESTAFF="213,50" IDN="286" />
+  <item ID="637" NAME="Біозавивка вій 1 год." PRICE0="800" PRICE10="720" PRICESTAFF="560" IDN="983" />
+  <item ID="48" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="475" PRICE10="427,50" PRICESTAFF="332,50" IDN="292" />
+  <item ID="52" NAME="Лікування волосся бальзамом коротке" PRICE0="17" PRICE10="15,30" PRICESTAFF="11,90" IDN="296" />
+  <item ID="55" NAME="Використання косметики: (пінка, лак, гель, віск, ..) коротке" PRICE0="13" PRICE10="11,70" PRICESTAFF="9,10" IDN="299" />
+  <item ID="58" NAME="Стрижка волосся &quot;дитяча&quot; (до 3-х років) " PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="302" />
+  <item ID="61" NAME="Стрижка модельна: &quot;Площадка&quot; " PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="305" />
+  <item ID="65" NAME="Стрижка волосся машинкою (наголо) " PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="309" />
+  <item ID="68" NAME="Стрижка вусів " PRICE0="20" PRICE10="18" PRICESTAFF="14" IDN="312" />
+  <item ID="719" NAME="Маска медична " PRICE0="10" PRICE10="9" PRICESTAFF="7" IDN="315" />
+  <item ID="722" NAME="Стрижка модельна (комплекс) середнє" PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="319" />
+  <item ID="726" NAME="Укладка волосся (комплекс) середнє" PRICE0="60" PRICE10="54" PRICESTAFF="42" IDN="322" />
+  <item ID="789" NAME="Сушка волосся середнє" PRICE0="35" PRICE10="31,50" PRICESTAFF="24,50" IDN="325" />
+  <item ID="703" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; коротке" PRICE0="140" PRICE10="126" PRICESTAFF="98" IDN="329" />
+  <item ID="706" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; коротке" PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="332" />
+  <item ID="709" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; коротке" PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="335" />
+  <item ID="758" NAME="Мелірування волосся препаратами &quot;BES&quot; довге" PRICE0="285" PRICE10="256,50" PRICESTAFF="199,50" IDN="340" />
+  <item ID="763" NAME="Знебарвлення волосся препаратами &quot;BES&quot; коротке" PRICE0="115" PRICE10="103,50" PRICESTAFF="80,50" IDN="345" />
+  <item ID="638" NAME="Ламінування вій 1 год." PRICE0="800" PRICE10="720" PRICESTAFF="560" IDN="984" />
+  <item ID="730" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="240" PRICE10="216" PRICESTAFF="168" IDN="353" />
+  <item ID="1072" NAME="Масаж класичний (загальний) 60 хв." PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="985" />
+  <item ID="724" NAME="Колорування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; довге" PRICE0="295" PRICE10="265,50" PRICESTAFF="206,50" IDN="359" />
+  <item ID="717" NAME="Ополіскування кондиціонером " PRICE0="12" PRICE10="10,80" PRICESTAFF="8,40" IDN="362" />
+  <item ID="774" NAME="Використання косметики: (пінка, лак, гель, віск, ..) коротке" PRICE0="12" PRICE10="10,80" PRICESTAFF="8,40" IDN="366" />
+  <item ID="732" NAME="Зачіска вечірня з використанням косметики коротке" PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="369" />
+  <item ID="1091" NAME="Масаж лікувальний (загальний) 60 хв." PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="986" />
+  <item ID="1089" NAME="Масаж баночний 10 хв." PRICE0="55" PRICE10="49,50" PRICESTAFF="38,50" IDN="987" />
+  <item ID="1085" NAME="Масаж антицелюлітний (живіт) 15 хв." PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="988" />
+  <item ID="1084" NAME="Масаж антицелюлітний (стегна і сідниці) 30 хв." PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="989" />
+  <item ID="705" NAME="Видалення косметичного тону &quot;Remover&quot; препаратами &quot;BES&quot; довге" PRICE0="265" PRICE10="238,50" PRICESTAFF="185,50" IDN="331" />
+  <item ID="710" NAME="Хімічна завивка волосся препаратами &quot;BES&quot; середнє" PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="336" />
+  <item ID="759" NAME="Тонування волосся препаратами &quot;BES&quot; коротке" PRICE0="50" PRICE10="45" PRICESTAFF="35" IDN="341" />
+  <item ID="764" NAME="Знебарвлення волосся препаратами &quot;BES&quot; середнє" PRICE0="170" PRICE10="153" PRICESTAFF="119" IDN="346" />
+  <item ID="1086" NAME="Масаж медовий (загальний) 60 хв." PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="990" />
+  <item ID="1090" NAME="Масаж дитячий загальний (до 10 років) 30 хв." PRICE0="385" PRICE10="346,50" PRICESTAFF="269,50" IDN="991" />
+  <item ID="773" NAME="Використання одноразової хустинки  " PRICE0="6" PRICE10="5,40" PRICESTAFF="4,20" IDN="361" />
+  <item ID="778" NAME="Лікування волосся бальзамом довге" PRICE0="25" PRICE10="22,50" PRICESTAFF="17,50" IDN="365" />
+  <item ID="733" NAME="Зачіска вечірня з використанням косметики середнє" PRICE0="195" PRICE10="175,50" PRICESTAFF="136,50" IDN="370" />
+  <item ID="1074" NAME="Масаж шийно-воротнікової зони 15 хв." PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="992" />
+  <item ID="885" NAME="Депіляція &quot;Шугаринг&quot; або &quot;Перон Рігот&quot; руки вище ліктя" PRICE0="155" PRICE10="139,50" PRICESTAFF="108,50" IDN="771" />
+  <item ID="442" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; коротке" PRICE0="510" PRICE10="459" PRICESTAFF="357" IDN="788" />
+  <item ID="443" NAME="Фарбування волосся препаратами &quot;BES&quot;, &quot;Londa&quot; середнє" PRICE0="660" PRICE10="594" PRICESTAFF="462" IDN="789" />
+  <item ID="456" NAME="Стрижка вусів " PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="790" />
+  <item ID="457" NAME="Миття волосся (одноразовий рушник) " PRICE0="80" PRICE10="72" PRICESTAFF="56" IDN="791" />
+  <item ID="458" NAME="Використання косметики: (пінка, лак, гель, віск, ..) " PRICE0="75" PRICE10="67,50" PRICESTAFF="52,50" IDN="792" />
+  <item ID="212" NAME="C2 Лосьйон для активного росту  та подовження життєвого циклу волосся ( в ампулах ) 1 х 10 мл" PRICE0="61" PRICE10="54,90" PRICESTAFF="41" IDN="862" />
+  <item ID="213" NAME="S2 Лосьйон для жирного волосся ( в ампулах ) 1 х 10 мл" PRICE0="63" PRICE10="56,70" PRICESTAFF="42" IDN="863" />
+  <item ID="214" NAME="F2 Лосьйон  від лупи ( в ампулах) 1 х 10 мл" PRICE0="63" PRICE10="56,70" PRICESTAFF="42" IDN="864" />
+  <item ID="254" NAME="Мус (для пошкодженого волосся - безалкогольний) / Dynamic Mousse 300 мл" PRICE0="426" PRICE10="383,40" PRICESTAFF="284" IDN="1048" />
+  <item ID="1069" NAME="Масаж лиця чоловічий омолоджуючий 15 хв." PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="1049" />
+  <item ID="1070" NAME="Масаж лиця лімфодренажний 30 хв." PRICE0="385" PRICE10="346,50" PRICESTAFF="269,50" IDN="1050" />
+  <item ID="1073" NAME="Масаж голови 10 хв." PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="1051" />
+  <item ID="1076" NAME="Масаж поперекової зони 20 хв." PRICE0="199" PRICE10="179,10" PRICESTAFF="139,30" IDN="1052" />
+  <item ID="1077" NAME="Масаж грудної клітини 20 хв." PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="1053" />
+  <item ID="1078" NAME="Масаж живота 10 хв." PRICE0="110" PRICE10="99" PRICESTAFF="77" IDN="1054" />
+  <item ID="266" NAME="Комплекс реконструююючий флюїд для посічених кінців 30 мл" PRICE0="491" PRICE10="441,90" PRICESTAFF="317" IDN="879" />
+  <item ID="233" NAME="Активний шампунь з екстрактом женьшеню 150 мл" PRICE0="266" PRICE10="239,40" PRICESTAFF="166" IDN="880" />
+  <item ID="251" NAME="C1 Шампунь для активного росту волосся 300 мл" PRICE0="278" PRICE10="250,20" PRICESTAFF="185" IDN="881" />
+  <item ID="260" NAME="C1 Шампунь для активного росту волосся 1000 мл" PRICE0="495" PRICE10="445,50" PRICESTAFF="321" IDN="882" />
+  <item ID="261" NAME="C2 Лосьйон для активного росту  та подовження життєвого циклу волосся ( упаковка ) 12 х 10 мл" PRICE0="699" PRICE10="629,10" PRICESTAFF="455" IDN="883" />
+  <item ID="239" NAME="N1 Шампунь мінералізуючий для сухого та пошкодженого волосся 300 мл" PRICE0="279" PRICE10="251,10" PRICESTAFF="186" IDN="884" />
+  <item ID="240" NAME="N1 Шампунь мінералізуючий для сухого та пошкодженого волосся 1000 мл" PRICE0="549" PRICE10="494,10" PRICESTAFF="352" IDN="885" />
+  <item ID="241" NAME="N2 Кондиціонер мінералізуючий для сухого та пошкодженого волосся 300 мл" PRICE0="315" PRICE10="283,50" PRICESTAFF="210" IDN="886" />
+  <item ID="122" NAME="Кава еспресо 50 мл" PRICE0="12" PRICE10="10,80" PRICESTAFF="10" IDN="960" />
+  <item ID="123" NAME="Кава американо 100 мл" PRICE0="12" PRICE10="10,80" PRICESTAFF="10" IDN="961" />
+  <item ID="124" NAME="Вершки 1 пор" PRICE0="3" PRICE10="2,70" PRICESTAFF="2,10" IDN="962" />
+  <item ID="1079" NAME="Масаж рук 15 хв." PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="1055" />
+  <item ID="1080" NAME="Масаж ніг 30 хв." PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="1056" />
+  <item ID="1081" NAME="Масаж стоп 20 хв." PRICE0="165" PRICE10="148,50" PRICESTAFF="115,50" IDN="1057" />
+  <item ID="1082" NAME="Масаж лімфодренажний (загальний) 60 хв." PRICE0="599" PRICE10="539,10" PRICESTAFF="419,30" IDN="1058" />
+  <item ID="1083" NAME="Масаж рефлекторний сегментарний лікувальний 25 хв." PRICE0="330" PRICE10="297" PRICESTAFF="231" IDN="1059" />
+  <item ID="1087" NAME="Масаж медовий (живіт) 20 хв." PRICE0="275" PRICE10="247,50" PRICESTAFF="192,50" IDN="1060" />
+  <item ID="1088" NAME="Масаж медовий (спина) 30 хв." PRICE0="385" PRICE10="346,50" PRICESTAFF="269,50" IDN="1061" />
+  <item ID="1071" NAME="Масаж лиця екзотичний 30 хв." PRICE0="220" PRICE10="198" PRICESTAFF="154" IDN="1062" />
+  <item ID="1092" NAME="Масаж релаксуючий 60 хв." PRICE0="715" PRICE10="643,50" PRICESTAFF="500,50" IDN="1063" />
+  <item ID="1093" NAME="Авторський масаж від Тіни Магер (загальний) 90 хв." PRICE0="880" PRICE10="792" PRICESTAFF="616" IDN="1064" />
+  <item ID="590" NAME="Лак середньої фіксації / Hair spray invisible 500 мл" PRICE0="442" PRICE10="397,80" PRICESTAFF="285" IDN="973" />
+  <item ID="591" NAME="Лак суперсильної фіксації / Hair spray strong 500 мл" PRICE0="463" PRICE10="416,70" PRICESTAFF="299" IDN="974" />
+  <item ID="545" NAME="Шампунь з ефектом вирівнювання / smooth 1000 мл" PRICE0="749" PRICE10="674,10" PRICESTAFF="485" IDN="975" />
+  <item ID="546" NAME="Бальзам для підтримки об`єму / volume 300 мл" PRICE0="386" PRICE10="347,40" PRICESTAFF="249" IDN="976" />
+  <item ID="547" NAME="Бальзам для підтримки об`єму / volume 1000 мл" PRICE0="789" PRICE10="710,10" PRICESTAFF="509" IDN="977" />
+  <item ID="548" NAME="Шампунь для підтримки об`єму / volume 300 мл" PRICE0="364" PRICE10="327,60" PRICESTAFF="235" IDN="978" />
+  <item ID="549" NAME="Шампунь для підтримки об`єму / volume 1000 мл" PRICE0="749" PRICE10="674,10" PRICESTAFF="485" IDN="979" />
+  <item ID="926" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; коротке" PRICE0="310" PRICE10="279" PRICESTAFF="217" IDN="994" />
+  <item ID="927" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; середнє" PRICE0="395" PRICE10="355,50" PRICESTAFF="276,50" IDN="995" />
+  <item ID="928" NAME="Випрямлення кучерявого волосся препаратами &quot;BES&quot; довге" PRICE0="510" PRICE10="459" PRICESTAFF="357" IDN="996" />
+</price>

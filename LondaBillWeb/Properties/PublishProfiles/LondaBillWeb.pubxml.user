@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Pavel\Desktop\LondaBillWeb</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="admin/DetailsViewOneUser.aspx">
+      <publishTime>11/11/2014 16:27:25</publishTime>
+    </File>
+    <File Include="admin/DetailsViewSample.aspx">
+      <publishTime>11/11/2014 16:27:25</publishTime>
+    </File>
+    <File Include="admin/GridViewSample.aspx">
+      <publishTime>11/11/2014 16:27:25</publishTime>
+    </File>
+    <File Include="admin/Membership.aspx">
+      <publishTime>11/11/2014 18:27:39</publishTime>
+    </File>
+    <File Include="App_Code/MembershipUserODS.cs">
+      <publishTime>11/11/2014 16:27:54</publishTime>
+    </File>
+    <File Include="App_Code/MembershipUserWrapper.cs">
+      <publishTime>11/11/2014 16:27:54</publishTime>
+    </File>
+    <File Include="App_Code/RoleDataObject.cs">
+      <publishTime>11/11/2014 16:27:54</publishTime>
+    </File>
+    <File Include="App_GlobalResources/ResourceMain.resx">
+      <publishTime>10/15/2014 15:28:58</publishTime>
+    </File>
+    <File Include="bin/LondaBillWeb.dll">
+      <publishTime>11/02/2021 18:46:51</publishTime>
+    </File>
+    <File Include="bin/LondaBillWeb.pdb">
+      <publishTime>11/02/2021 18:46:51</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.GeneratedImage.dll">
+      <publishTime>10/28/2014 17:51:15</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>09/10/2019 16:04:37</publishTime>
+    </File>
+    <File Include="MessageBoxUserControl.ascx">
+      <publishTime>11/18/2014 12:51:34</publishTime>
+    </File>
+    <File Include="ScreenResolution.aspx">
+      <publishTime>09/10/2019 16:55:29</publishTime>
+    </File>
+    <File Include="staffonly/Default.aspx">
+      <publishTime>11/02/2021 18:33:10</publishTime>
+    </File>
+    <File Include="staffonly/Default.css">
+      <publishTime>09/06/2019 17:58:49</publishTime>
+    </File>
+    <File Include="staffonly/MessageDisplay.aspx">
+      <publishTime>10/28/2014 12:35:28</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/21/2020 12:39:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

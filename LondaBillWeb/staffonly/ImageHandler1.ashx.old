@@ -1,0 +1,26 @@
+<%@ WebHandler Language="C#" Class="ImageHandler" %>
+
+using System;
+using System.Web;
+
+public class ImageHandler : IHttpHandler, System.Web.SessionState.IRequiresSessionState
+{
+    
+    public void ProcessRequest (HttpContext context) {
+       //Checking whether the imagebytes session variable have anything else not doing anything
+
+        if ((context.Session["billToMonitor"]) != null)
+        {
+            byte[] image = (byte[])(context.Session["billToMonitor"]);
+            context.Response.ContentType = "image/JPEG";
+            context.Response.BinaryWrite(image);
+        }
+    }
+ 
+    public bool IsReusable {
+        get {
+            return false;
+        }
+    }
+}
+

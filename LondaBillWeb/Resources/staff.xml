@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<staff>
+  <profession ID="1" NAME="Аналітик компьютерних систем" />
+  <profession ID="0" NAME="нет" />
+  <profession ID="2" NAME="Перукар" />
+  <profession ID="3" NAME="Майстер манікюра" />
+  <profession ID="4" NAME="Косметолог" />
+  <profession ID="5" NAME="Майстер епіляції" />
+  <profession ID="6" NAME="Адміністратор БД" />
+  <profession ID="9" NAME="Адміністратор салона" />
+  <rank ID="0" NAME="нет" />
+  <rank ID="1" NAME="ВІП МАЙСТЕР" />
+  <rank ID="2" NAME="Високої Кваліфікації" />
+  <rank ID="3" NAME="Авторський Майстер" />
+  <rank ID="4" NAME="Гранд Майстер" />
+  <rank ID="5" NAME="Стиль Директор" />
+  <rank ID="6" NAME="Майстер Року" />
+  <rank ID="7" NAME="Топ Майстер" />
+  <rank ID="8" NAME="Стиль Майстер" />
+  <worker ID="1111" NAME="Артамонова Наталія" LEVEL="0" PROF="4" IDN="10" />
+  <worker ID="2222" NAME="Мельник  Діана" LEVEL="2" PROF="2" IDN="191" />
+  <worker ID="4545" NAME="Гайдук Володимир" LEVEL="1" PROF="2" IDN="19" />
+  <worker ID="6767" NAME="Кулик Альона" LEVEL="4" PROF="2" IDN="114" />
+  <worker ID="7777" NAME="Веремеєнко Анастасія" LEVEL="1" PROF="2" IDN="110" />
+  <worker ID="8181" NAME="Яремчук Тетяна" LEVEL="8" PROF="2" IDN="113" />
+  <updates ID="66271" />
+</staff>

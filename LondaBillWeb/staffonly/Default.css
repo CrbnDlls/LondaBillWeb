@@ -1,0 +1,60 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+div {
+    border: 1px solid;
+    float: left;
+}
+
+#MonitorWrap {
+    height: 800px;
+    width: 27%;
+}
+
+.Monitor {
+    width: 100%;
+}
+
+#Monitor1 {
+    height: 220px;
+}
+
+#Monitor2 {
+    height: 390px;
+}
+
+#Monitor3 {
+    height: 190px;
+}
+
+#PreviewWrap {
+    width: 72%;
+    height: 220px;
+}
+
+#MonitorPreview {
+    width: 100%;
+    height: 66%;
+}
+
+#MonitorHint {
+    width: 100%;
+    height: calc(34%-4px);
+}
+
+#ButtonsWrap {
+    width: 72%;
+    height: 580px;
+}
+
+#UpdatePanel1 {
+    height: 100%;
+}
+
+.Buttons {
+    height: calc((100% - 10px)/5);
+    width: calc((100% - 8px)/4);
+}

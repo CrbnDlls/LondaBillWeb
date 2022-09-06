@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<staff>
+  <profession ID="1" NAME="Аналітик компьютерних систем" />
+  <profession ID="0" NAME="нет" />
+  <profession ID="2" NAME="Перукар" />
+  <profession ID="3" NAME="Майстер манікюра" />
+  <profession ID="4" NAME="Косметич. послуг" />
+  <profession ID="5" NAME="Майстер епіляції" />
+  <profession ID="6" NAME="Адміністратор БД" />
+  <profession ID="10" NAME="Масажист" />
+  <profession ID="9" NAME="Адміністратор салона" />
+  <rank ID="0" NAME="нет" />
+  <rank ID="1" NAME="VIP Майстер" />
+  <rank ID="2" NAME="Високої Кваліфікації" />
+  <rank ID="3" NAME="Авторський Майстер" />
+  <rank ID="4" NAME="Гранд Майстер" />
+  <rank ID="5" NAME="Стиль Директор" />
+  <rank ID="6" NAME="Майстер Року" />
+  <rank ID="7" NAME="Топ Майстер" />
+  <rank ID="8" NAME="Стиль Майстер" />
+  <worker ID="18" NAME="Прилiпа Свiтлана" LEVEL="1" PROF="2" IDN="426" />
+  <worker ID="53" NAME="Соболєва Юлiя" LEVEL="1" PROF="2" IDN="471" />
+  <worker ID="39" NAME="Сушинська Свiтлана" LEVEL="1" PROF="2" IDN="479" />
+  <worker ID="40" NAME="Темченко Тетяна" LEVEL="1" PROF="2" IDN="483" />
+  <worker ID="54" NAME="Тонконог Вiкторiя" LEVEL="1" PROF="2" IDN="488" />
+  <worker ID="41" NAME="Хаярова Наталiя" LEVEL="1" PROF="2" IDN="499" />
+  <worker ID="42" NAME="Шадой Iнна" LEVEL="4" PROF="2" IDN="510" />
+  <worker ID="81" NAME="Сімейко  Ольга" LEVEL="0" PROF="9" IDN="528" />
+  <worker ID="9" NAME="Казновська Дарина" LEVEL="4" PROF="2" IDN="540" />
+  <worker ID="64" NAME="Скляренко Галина" LEVEL="0" PROF="3" IDN="542" />
+  <worker ID="24" NAME="Земська Наталія" LEVEL="1" PROF="2" IDN="544" />
+  <worker ID="25" NAME="Кавалок  Олена" LEVEL="4" PROF="2" IDN="557" />
+  <worker ID="45" NAME="Бабієнко Анна" LEVEL="8" PROF="2" IDN="564" />
+  <worker ID="78" NAME="Полякова Оксана" LEVEL="0" PROF="9" IDN="571" />
+  <worker ID="22" NAME="Гончарук Ірина" LEVEL="4" PROF="2" IDN="573" />
+  <worker ID="37" NAME="Стельмах Олена" LEVEL="1" PROF="2" IDN="574" />
+  <worker ID="69" NAME="Бережнова Олена" LEVEL="0" PROF="9" IDN="583" />
+  <worker ID="99" NAME="Ямненко Христина" LEVEL="1" PROF="2" IDN="597" />
+  <worker ID="4" NAME="Веремеєнко Анастасія" LEVEL="7" PROF="2" IDN="110" />
+  <worker ID="47" NAME="Даценко Наталія" LEVEL="1" PROF="2" IDN="59" />
+  <worker ID="16" NAME="Хмільовська Мирослава" LEVEL="4" PROF="2" IDN="51" />
+  <worker ID="49" NAME="Клюсова Анастасія" LEVEL="8" PROF="2" IDN="604" />
+  <worker ID="91" NAME="Перукар 6" LEVEL="3" PROF="2" IDN="609" />
+  <worker ID="90" NAME="Перукар 5" LEVEL="8" PROF="2" IDN="610" />
+  <worker ID="89" NAME="Перукар 4" LEVEL="1" PROF="2" IDN="611" />
+  <worker ID="88" NAME="Перукар 3" LEVEL="4" PROF="2" IDN="612" />
+  <worker ID="87" NAME="Перукар 2" LEVEL="7" PROF="2" IDN="613" />
+  <worker ID="92" NAME="Перукар 7" LEVEL="6" PROF="2" IDN="614" />
+  <worker ID="93" NAME="Перукар 8" LEVEL="2" PROF="2" IDN="615" />
+  <worker ID="94" NAME="Майстер 1" LEVEL="0" PROF="4" IDN="616" />
+  <worker ID="95" NAME="М 1" LEVEL="0" PROF="3" IDN="617" />
+  <worker ID="98" NAME="А 1" LEVEL="0" PROF="9" IDN="618" />
+  <worker ID="26" NAME="Коваленко Ольга" LEVEL="1" PROF="2" IDN="620" />
+  <worker ID="97" NAME="М 1" LEVEL="0" PROF="5" IDN="622" />
+  <worker ID="83" NAME="Тарасенко Людмила" LEVEL="0" PROF="9" IDN="44" />
+  <worker ID="51" NAME="Леута Марина" LEVEL="1" PROF="2" IDN="65" />
+  <worker ID="55" NAME="Яковенко Вероніка" LEVEL="1" PROF="2" IDN="75" />
+  <worker ID="11" NAME="Мельнік Ельвiра" LEVEL="4" PROF="2" IDN="77" />
+  <worker ID="79" NAME="Пянковська Оксана" LEVEL="0" PROF="9" IDN="80" />
+  <worker ID="14" NAME="Семенюк Снiжана" LEVEL="4" PROF="2" IDN="81" />
+  <worker ID="15" NAME="Тищенко Наталiя" LEVEL="4" PROF="2" IDN="98" />
+  <worker ID="3" NAME="Малик Свiтлана" LEVEL="7" PROF="2" IDN="104" />
+  <worker ID="2" NAME="Зайцева Iнна" LEVEL="7" PROF="2" IDN="105" />
+  <worker ID="44" NAME="Яремчук Тетяна" LEVEL="1" PROF="2" IDN="113" />
+  <worker ID="50" NAME="Ковбик Наталія" LEVEL="1" PROF="2" IDN="118" />
+  <worker ID="5" NAME="Джеммель Нiна" LEVEL="4" PROF="2" IDN="146" />
+  <worker ID="1" NAME="Богомолова Наталiя" LEVEL="5" PROF="2" IDN="147" />
+  <worker ID="38" NAME="Суржок Марина" LEVEL="1" PROF="2" IDN="154" />
+  <worker ID="6" NAME="Джус Лариса" LEVEL="4" PROF="2" IDN="163" />
+  <worker ID="84" NAME="Ткаченко Людмила" LEVEL="0" PROF="9" IDN="165" />
+  <worker ID="56" NAME="Гроцька Iрина" LEVEL="0" PROF="4" IDN="167" />
+  <worker ID="12" NAME="Міхалєвська Олена" LEVEL="4" PROF="2" IDN="170" />
+  <worker ID="75" NAME="Науменко Снiжана" LEVEL="0" PROF="9" IDN="174" />
+  <worker ID="30" NAME="Маленюк Яна" LEVEL="1" PROF="2" IDN="181" />
+  <worker ID="28" NAME="Лебедєва Аліна" LEVEL="1" PROF="2" IDN="190" />
+  <worker ID="46" NAME="Бражнік Діана" LEVEL="8" PROF="2" IDN="191" />
+  <worker ID="73" NAME="Лукашенко Світлана" LEVEL="0" PROF="9" IDN="230" />
+  <worker ID="23" NAME="Джонс Леся" LEVEL="1" PROF="2" IDN="245" />
+  <worker ID="60" NAME="Бондаренко  Наталія" LEVEL="0" PROF="3" IDN="256" />
+  <worker ID="7" NAME="Дмитренко Алла" LEVEL="4" PROF="2" IDN="301" />
+  <worker ID="10" NAME="Калачикова Ольга" LEVEL="7" PROF="2" IDN="324" />
+  <worker ID="13" NAME="Музика  Олена" LEVEL="4" PROF="2" IDN="394" />
+  <worker ID="66" NAME="Лобко Вікторія" LEVEL="0" PROF="3" IDN="671" />
+  <worker ID="100" NAME="Баранюк Яна" LEVEL="0" PROF="4" IDN="672" />
+  <worker ID="20" NAME="Фризоренко Анастасія" LEVEL="1" PROF="2" IDN="673" />
+  <worker ID="70" NAME="Давиденко Наталія" LEVEL="0" PROF="9" IDN="636" />
+  <worker ID="48" NAME="Євреєнко Марія" LEVEL="1" PROF="2" IDN="637" />
+  <worker ID="65" NAME="Трунова Олена" LEVEL="0" PROF="3" IDN="638" />
+  <worker ID="76" NAME="Никифорова Світлана" LEVEL="0" PROF="9" IDN="639" />
+  <worker ID="68" NAME="Балісевич Ольга" LEVEL="0" PROF="9" IDN="640" />
+  <worker ID="32" NAME="Певнева Альона" LEVEL="1" PROF="2" IDN="641" />
+  <worker ID="43" NAME="Швидак Олена" LEVEL="4" PROF="2" IDN="642" />
+  <worker ID="52" NAME="Пастушенко-Ляховська Юлія" LEVEL="8" PROF="2" IDN="643" />
+  <worker ID="21" NAME="Гавилей Катерина" LEVEL="1" PROF="2" IDN="644" />
+  <worker ID="33" NAME="Печонкіна Валентина" LEVEL="1" PROF="2" IDN="645" />
+  <worker ID="82" NAME="Сушко Вікторія" LEVEL="0" PROF="9" IDN="646" />
+  <worker ID="8" NAME="Дуданова Марина" LEVEL="7" PROF="2" IDN="647" />
+  <worker ID="31" NAME="Мацола Марія" LEVEL="1" PROF="2" IDN="648" />
+  <worker ID="35" NAME="Поліщук Ольга" LEVEL="4" PROF="2" IDN="649" />
+  <worker ID="62" NAME="Коновалюк Ірина" LEVEL="0" PROF="3" IDN="650" />
+  <worker ID="85" NAME="Філюкова Світлана" LEVEL="0" PROF="9" IDN="651" />
+  <worker ID="29" NAME="Луців Юрій" LEVEL="1" PROF="2" IDN="652" />
+  <worker ID="17" NAME="Шпортько Ганна" LEVEL="4" PROF="2" IDN="653" />
+  <worker ID="34" NAME="Плисенко Світлана" LEVEL="1" PROF="2" IDN="655" />
+  <worker ID="61" NAME="Горобець Тетяна" LEVEL="0" PROF="3" IDN="656" />
+  <worker ID="36" NAME="Потелєжко Яна" LEVEL="1" PROF="2" IDN="657" />
+  <worker ID="72" NAME="Крюкова Дар`я" LEVEL="0" PROF="9" IDN="658" />
+  <worker ID="27" NAME="Ковальчук Віта" LEVEL="1" PROF="2" IDN="660" />
+  <worker ID="58" NAME="Кальницька Наталія" LEVEL="0" PROF="4" IDN="661" />
+  <worker ID="71" NAME="Іваніцька Наталія" LEVEL="0" PROF="9" IDN="662" />
+  <worker ID="77" NAME="Паламарчук Тетяна" LEVEL="0" PROF="9" IDN="663" />
+  <worker ID="80" NAME="Севастьяненко Вікторія" LEVEL="0" PROF="9" IDN="664" />
+  <worker ID="101" NAME="Ясінська Ольга" LEVEL="0" PROF="3" IDN="665" />
+  <worker ID="102" NAME="Піпник Тетяна" LEVEL="0" PROF="3" IDN="674" />
+  <worker ID="74" NAME="Матяш Вікторія" LEVEL="0" PROF="9" IDN="629" />
+  <worker ID="67" NAME="Магера-Недвецька Валентина" LEVEL="0" PROF="10" IDN="634" />
+  <worker ID="59" NAME="Микитченко Юлія" LEVEL="0" PROF="4" IDN="668" />
+  <worker ID="96" NAME="М 1" LEVEL="0" PROF="10" IDN="669" />
+  <worker ID="86" NAME="Перукар 1" LEVEL="5" PROF="2" IDN="670" />
+  <worker ID="103" NAME="Сенська Людмила" LEVEL="0" PROF="3" IDN="675" />
+  <worker ID="104" NAME="Пилипенко Яна" LEVEL="8" PROF="2" IDN="676" />
+  <worker ID="57" NAME="Заїдова Малахат" LEVEL="0" PROF="4" IDN="666" />
+  <worker ID="63" NAME="Магомедова Патімат" LEVEL="0" PROF="3" IDN="667" />
+  <worker ID="19" NAME="Буран Ганна" LEVEL="1" PROF="2" IDN="630" />
+  <updates ID="70241" />
+</staff>

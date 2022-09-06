@@ -1,0 +1,67 @@
+<publishData>
+  <publishTarget publishUrl="C:\Users\Pavel\Desktop\londabillweb\">
+    <file relUrl="App_Code/MembershipUserWrapper.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="admin/Membership.aspx" publishTime="11/11/2014 18:27:39" />
+    <file relUrl="staffonly/Default.aspx" publishTime="06/23/2015 14:14:11" />
+    <file relUrl="App_Code/RoleDataObject.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="Web.config" publishTime="09/29/2015 14:57:33" />
+    <file relUrl="App_GlobalResources/ResourceMain.resx" publishTime="10/15/2014 15:28:58" />
+    <file relUrl="admin/DetailsViewOneUser.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="admin/DetailsViewSample.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="getScreenResolution.htm" publishTime="01/22/2016 13:20:49" />
+    <file relUrl="Login.aspx" publishTime="11/17/2014 13:16:23" />
+    <file relUrl="bin/Microsoft.Web.GeneratedImage.dll" publishTime="10/28/2014 17:51:15" />
+    <file relUrl="MessageBoxUserControl.ascx" publishTime="11/18/2014 12:51:34" />
+    <file relUrl="bin/LondaBillWeb.dll" publishTime="12/26/2016 15:03:39" />
+    <file relUrl="staffonly/MessageDisplay.aspx" publishTime="10/28/2014 12:35:28" />
+    <file relUrl="admin/GridViewSample.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="App_Code/MembershipUserODS.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="bin/LondaBillWeb.pdb" publishTime="12/26/2016 15:03:39" />
+  </publishTarget>
+  <publishTarget publishUrl="\\GOFLEX_HOME\GoFlex Home Public\KROKUS\Londa\LondaBillWeb\">
+    <file relUrl="App_Code/MembershipUserWrapper.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="admin/Membership.aspx" publishTime="11/11/2014 18:27:39" />
+    <file relUrl="staffonly/Default.aspx" publishTime="06/23/2015 14:14:11" />
+    <file relUrl="App_Code/RoleDataObject.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="Web.config" publishTime="07/29/2015 13:53:16" />
+    <file relUrl="App_GlobalResources/ResourceMain.resx" publishTime="10/15/2014 15:28:58" />
+    <file relUrl="admin/DetailsViewOneUser.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="admin/DetailsViewSample.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="getScreenResolution.htm" publishTime="05/20/2015 14:05:33" />
+    <file relUrl="Login.aspx" publishTime="11/17/2014 13:16:23" />
+    <file relUrl="bin/Microsoft.Web.GeneratedImage.dll" publishTime="10/28/2014 17:51:15" />
+    <file relUrl="MessageBoxUserControl.ascx" publishTime="11/18/2014 12:51:34" />
+    <file relUrl="bin/LondaBillWeb.dll" publishTime="07/29/2015 14:11:23" />
+    <file relUrl="staffonly/MessageDisplay.aspx" publishTime="10/28/2014 12:35:28" />
+    <file relUrl="admin/GridViewSample.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="App_Code/MembershipUserODS.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="bin/LondaBillWeb.pdb" publishTime="07/29/2015 14:11:23" />
+  </publishTarget>
+  <publishTarget publishUrl="F:\KROKUS\Exchange\web\">
+    <file relUrl="App_Code/MembershipUserWrapper.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="admin/Membership.aspx" publishTime="11/11/2014 18:27:39" />
+    <file relUrl="staffonly/Default.aspx" publishTime="11/18/2014 14:01:15" />
+    <file relUrl="App_Code/RoleDataObject.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="Web.config" publishTime="11/18/2014 13:02:34" />
+    <file relUrl="App_GlobalResources/ResourceMain.resx" publishTime="10/15/2014 15:28:58" />
+    <file relUrl="admin/DetailsViewOneUser.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="staffonly/ImageHandler1.ashx" publishTime="10/29/2014 20:12:25" />
+    <file relUrl="admin/DetailsViewSample.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="getScreenResolution.htm" publishTime="11/05/2014 19:51:05" />
+    <file relUrl="Login.aspx" publishTime="11/17/2014 13:16:23" />
+    <file relUrl="bin/Microsoft.Web.GeneratedImage.dll" publishTime="10/28/2014 17:51:15" />
+    <file relUrl="MessageBoxUserControl.ascx" publishTime="11/18/2014 12:51:34" />
+    <file relUrl="bin/LondaBillWeb.dll" publishTime="11/18/2014 14:53:31" />
+    <file relUrl="staffonly/MessageDisplay.aspx" publishTime="10/28/2014 12:35:28" />
+    <file relUrl="admin/GridViewSample.aspx" publishTime="11/11/2014 16:27:25" />
+    <file relUrl="App_Code/MembershipUserODS.cs" publishTime="11/11/2014 16:27:54" />
+    <file relUrl="bin/LondaBillWeb.pdb" publishTime="11/18/2014 14:53:31" />
+  </publishTarget>
+  <publishTarget publishUrl="F:\Visual studio\web\">
+    <file relUrl="App_GlobalResources/ResourceMain.resx" publishTime="10/15/2014 15:28:58" />
+    <file relUrl="bin/LondaBillWeb.pdb" publishTime="10/15/2014 18:00:34" />
+    <file relUrl="Default.aspx" publishTime="10/15/2014 15:28:59" />
+    <file relUrl="bin/LondaBillWeb.dll" publishTime="10/15/2014 18:00:34" />
+    <file relUrl="Web.config" publishTime="10/15/2014 17:49:10" />
+  </publishTarget>
+</publishData>
